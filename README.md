@@ -1,7 +1,9 @@
-Mươi hai tháng sáu 
-Riêng gửi Kiều Thu
+# Mươi hai tháng sáu 
+## Riêng gửi Kiều Thu
+*Tác giả Vũ Hoàng Chương*
 
-Trăng của nhà ai? trăng một phương!
+> Trăng của nhà ai? trăng một phương!
+
 Nơi đây rượu đắng mưa đêm trường.
 Ờ! đêm tháng sáu mười hai nhỉ!
 Tố của Hoàng ơi! hỡi nhớ thương.
