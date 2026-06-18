@@ -1,108 +1,69 @@
-# Tác giả A-Z
-
-Danh mục các tác giả xuất hiện trong bộ Tổng hợp Văn học Việt Nam.
-
----
-
-## A
-
-(đang cập nhật)
-
----
+# Tác giả A–Z
 
 ## B
 
-### Bà Huyện Thanh Quan
-
-- Thời kỳ: Trung đại
-- Tác phẩm tiêu biểu:
-  - Qua Đèo Ngang
-
----
+- Bảo Ninh
 
 ## C
 
-(đang cập nhật)
+- Cao Bá Quát
+- Chế Lan Viên
+- Chính Hữu
 
----
+## Đ
 
-## D
-
-### Đoàn Thị Điểm
-
-- Thời kỳ: Trung đại
-- Tác phẩm tiêu biểu:
-  - Chinh phụ ngâm
-
----
-
-## G
-
-### Nguyễn Gia Thiều
-
-- Thời kỳ: Trung đại
-- Tác phẩm tiêu biểu:
-  - Cung oán ngâm khúc
-
----
+- Đặng Thai Mai
 
 ## H
 
-### Hồ Xuân Hương
-
-- Thời kỳ: Trung đại
-- Tác phẩm tiêu biểu:
-  - Bánh trôi nước
-  - Tự tình
-
----
+- Hàn Mặc Tử
+- Hoài Thanh
+- Hồ Xuân Hương
+- Huy Cận
 
 ## K
 
-### Nguyễn Khuyến
+- Kim Lân
 
-- Thời kỳ: Cận đại
-- Tác phẩm tiêu biểu:
-  - Thu điếu
-  - Thu vịnh
-  - Thu ẩm
+## L
 
----
+- Lê Minh Khuê
+
+## M
+
+- Ma Văn Kháng
 
 ## N
 
-### Nguyễn Du
+- Nam Cao
+- Nguyễn Bính
+- Nguyễn Du
+- Nguyễn Gia Thiều
+- Nguyễn Huy Thiệp
+- Nguyễn Minh Châu
+- Nguyễn Ngọc Tư
+- Nguyễn Tuân
+- Nguyễn Trãi
+- Nguyễn Đăng Mạnh
+- Nguyễn Đình Thi
 
-- Thời kỳ: Trung đại
-- Tác phẩm tiêu biểu:
-  - Truyện Kiều
+## P
 
-### Nguyễn Đình Chiểu
+- Phạm Tiến Duật
+- Phan Ngọc
 
-- Thời kỳ: Cận đại
-- Tác phẩm tiêu biểu:
-  - Lục Vân Tiên
+## T
 
----
+- Tô Hoài
+- Tố Hữu
+- Trần Đình Sử
 
 ## V
 
-### Vũ Hoàng Chương
-
-- Thời kỳ: Thơ Mới
-- Tác phẩm tiêu biểu:
-  - Riêng gửi Kiều Thu
-  - Mười hai tháng sáu
-
----
+- Vũ Ngọc Phan
+- Vũ Trọng Phụng
+- Vũ Hoàng Chương
 
 ## X
 
-### Xuân Diệu
-
-- Thời kỳ: Thơ Mới
-- Tác phẩm tiêu biểu:
-  - Vội vàng
-  - Đây mùa thu tới
-
-© Ngô Xuân Thể
+- Xuân Diệu
