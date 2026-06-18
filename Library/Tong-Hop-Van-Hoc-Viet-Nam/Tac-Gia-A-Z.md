@@ -1,69 +1,114 @@
-# Tác giả A–Z
 
-## B
+# Tác giả Văn học Việt Nam A–Z
 
-- Bảo Ninh
+Tập hợp các tác giả tiêu biểu trong lịch sử văn học Việt Nam, được sắp xếp theo thứ tự chữ cái.
 
-## C
+---
 
-- Cao Bá Quát
-- Chế Lan Viên
-- Chính Hữu
+# A
 
-## Đ
+* Anh Thơ
 
-- Đặng Thai Mai
+---
 
-## H
+# B
 
-- Hàn Mặc Tử
-- Hoài Thanh
-- Hồ Xuân Hương
-- Huy Cận
+* Bà Huyện Thanh Quan
+* Bằng Việt
 
-## K
+---
 
-- Kim Lân
+# C
 
-## L
+* Cao Bá Quát
+* Chế Lan Viên
 
-- Lê Minh Khuê
+---
 
-## M
+# Đ
 
-- Ma Văn Kháng
+* Đặng Thai Mai
+* Đoàn Giỏi
 
-## N
+---
 
-- Nam Cao
-- Nguyễn Bính
-- Nguyễn Du
-- Nguyễn Gia Thiều
-- Nguyễn Huy Thiệp
-- Nguyễn Minh Châu
-- Nguyễn Ngọc Tư
-- Nguyễn Tuân
-- Nguyễn Trãi
-- Nguyễn Đăng Mạnh
-- Nguyễn Đình Thi
+# H
 
-## P
+* Hàn Mặc Tử
+* Hồ Biểu Chánh
+* Hồ Xuân Hương
+* Hoài Thanh
 
-- Phạm Tiến Duật
-- Phan Ngọc
+---
 
-## T
+# K
 
-- Tô Hoài
-- Tố Hữu
-- Trần Đình Sử
+* Kim Lân
 
-## V
+---
 
-- Vũ Ngọc Phan
-- Vũ Trọng Phụng
-- Vũ Hoàng Chương
+# L
 
-## X
+* Lê Minh Khuê
+* Lưu Trọng Lư
 
-- Xuân Diệu
+---
+
+# M
+
+* Ma Văn Kháng
+
+---
+
+# N
+
+* Nam Cao
+* Ngô Tất Tố
+* Ngô Thì Nhậm
+* Nguyễn Bính
+* Nguyễn Công Hoan
+* Nguyễn Đình Chiểu
+* Nguyễn Đình Thi
+* Nguyễn Du
+* Nguyễn Gia Thiều
+* Nguyễn Huy Thiệp
+* Nguyễn Khuyến
+* Nguyễn Minh Châu
+* Nguyễn Ngọc Tư
+* Nguyễn Trãi
+* Nguyễn Tuân
+* Nguyễn Đăng Mạnh
+
+---
+
+# P
+
+* Phạm Tiến Duật
+* Phan Bội Châu
+* Phan Ngọc
+
+---
+
+# T
+
+* Tản Đà
+* Tế Hanh
+* Thạch Lam
+* Thanh Tịnh
+* Tô Hoài
+* Tố Hữu
+* Tú Xương
+
+---
+
+# V
+
+* Vũ Hoàng Chương
+* Vũ Ngọc Phan
+* Vũ Trọng Phụng
+
+---
+
+# X
+
+* Xuân Diệu
