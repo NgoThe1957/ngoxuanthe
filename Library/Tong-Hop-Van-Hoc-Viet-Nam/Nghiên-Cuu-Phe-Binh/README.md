@@ -1,56 +1,34 @@
-# Nghiên cứu và Phê bình Văn học Việt Nam
+## Các hướng nghiên cứu chính
 
-Bên cạnh sáng tác, nghiên cứu và phê bình văn học giữ vai trò quan trọng trong việc khám phá, đánh giá và hệ thống hóa các giá trị văn học Việt Nam.
-
----
-
-## Giới thiệu
-
-Các nhà nghiên cứu và phê bình văn học góp phần:
-
-- Xây dựng lịch sử văn học.
-- Phân tích tác phẩm.
-- Định hướng tiếp nhận văn học.
-- Bảo tồn giá trị văn hóa dân tộc.
-
----
-
-## Các học giả tiêu biểu
+### Lịch sử văn học
 
 - Hoài Thanh
-- Vũ Ngọc Phan
 - Đặng Thai Mai
-- Phan Ngọc
+- Vũ Ngọc Phan
+
+### Thi pháp học
+
 - Trần Đình Sử
+
+### Phong cách học
+
+- Phan Ngọc
+
+### Phê bình hiện đại
+
 - Nguyễn Đăng Mạnh
 
 ---
 
-## Công trình tiêu biểu
+## Giá trị
 
-### Hoài Thanh
+Nghiên cứu và phê bình văn học giúp:
 
-- Thi nhân Việt Nam
-
-### Vũ Ngọc Phan
-
-- Nhà văn hiện đại
-
-### Đặng Thai Mai
-
-- Văn học khái luận
-
-### Phan Ngọc
-
-- Tìm hiểu phong cách Nguyễn Du
-
-### Trần Đình Sử
-
-- Thi pháp học
-
-### Nguyễn Đăng Mạnh
-
-- Nhà văn Việt Nam hiện đại
+- Hệ thống hóa lịch sử văn học Việt Nam.
+- Giải thích giá trị của tác phẩm.
+- Định hướng tiếp nhận văn học.
+- Kết nối văn học với văn hóa dân tộc.
+- Bảo tồn di sản tinh thần Việt Nam.
 
 ---
 
