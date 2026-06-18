@@ -1,10 +1,42 @@
 # Mục lục Tổng hợp Văn học Việt Nam
 
-## Văn học dân gian
+## I. Văn học dân gian
 
-- Tập 01
-- Tập 02
-- Tập 03
+- Ca dao
+- Tục ngữ
+- Truyện cổ tích
+- Sử thi
+
+## II. Văn học trung đại
+
+- Nguyễn Trãi
+- Nguyễn Du
+- Hồ Xuân Hương
+- Nguyễn Gia Thiều
+- Cao Bá Quát
+
+## III. Thơ Mới (1932–1945)
+
+- Xuân Diệu
+- Huy Cận
+- Nguyễn Bính
+- Hàn Mặc Tử
+- Chế Lan Viên
+- Vũ Hoàng Chương
+
+## IV. Văn học hiện đại
+
+- Nam Cao
+- Vũ Trọng Phụng
+- Nguyễn Tuân
+- Tô Hoài
+- Kim Lân
+
+## V. Công cụ tra cứu
+
+- Tác giả A-Z
+- Chỉ mục tác phẩm
+
 
 ## Văn học trung đại
 
