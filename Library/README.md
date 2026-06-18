@@ -1,31 +1,38 @@
-# Thư viện PDF
 
-Kho lưu trữ sách điện tử và tài liệu nghiên cứu.
+# Thơ Mới (1932–1945)
 
----
-
-## Văn học
-
-- Tổng hợp Văn học Việt Nam
-- Vũ Hoàng Chương
+Phong trào Thơ Mới là cuộc cách mạng thi ca lớn nhất của văn học Việt Nam thế kỷ XX.
 
 ---
 
-## Điện ảnh
+## Tác giả tiêu biểu
 
-- Oscar
+- [Xuân Diệu](Xuan-Dieu.md)
+- [Huy Cận](Huy-Can.md)
+- [Nguyễn Bính](Nguyễn%20Bính.md)
+- [Hàn Mặc Tử](Han-Mac-Tu.md)
+- [Chế Lan Viên](Che-Lan-Vien.md)
+- [Vũ Hoàng Chương](Tho-Moi/Vu-Hoang-Chuong.md)
 
 ---
 
-## Báo chí
+## Chuyên đề
 
-- Pulitzer
+### Tình yêu
 
----
+Xuân Diệu – Nguyễn Bính
 
-## Công nghệ
+### Nỗi cô đơn
 
-- Kevin Mitnick
+Huy Cận – Vũ Hoàng Chương
+
+### Tâm linh
+
+Hàn Mặc Tử
+
+### Cái đẹp và tượng trưng
+
+Chế Lan Viên
 
 ---
 
