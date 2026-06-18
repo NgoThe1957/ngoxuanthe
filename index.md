@@ -40,7 +40,11 @@ tra cứu và thưởng thức văn chương.
 
 ### Các tác giả
 
-- Vũ Hoàng Chương
+## 📚 NGHIÊN CỨU
+
+### Vũ Hoàng Chương
+- [Mười hai tháng sáu](Research/Vu-Hoang-Chuong/Thang-Sau-Muoi-Hai.md)
+- 
 - Nguyễn Du
 - Nguyễn Gia Thiều
 - Nguyễn Tất Nhiên
