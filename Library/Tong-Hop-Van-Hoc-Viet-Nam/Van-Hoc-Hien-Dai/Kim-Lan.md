@@ -1,10 +1,8 @@
 # Kim Lân
 
-## Tiểu sử
+## Thông tin
 
-Nhà văn chuyên viết về người nông dân và đời sống thôn quê Việt Nam.
-
----
+Nhà văn chuyên viết về người nông dân và làng quê Việt Nam.
 
 ## Tác phẩm
 
@@ -12,12 +10,8 @@ Nhà văn chuyên viết về người nông dân và đời sống thôn quê V
 - Làng
 - Con chó xấu xí
 
----
-
 ## Chuyên đề nghiên cứu
 
-- Người nông dân Việt Nam
+- Nông thôn Việt Nam
 - Nạn đói 1945
-- Giá trị nhân đạo
-
-© Ngô Xuân Thể
+- Tình người trong nghịch cảnh
