@@ -1,3 +1,4 @@
+
 # Chỉ Mục Tác Phẩm Văn Học Việt Nam
 
 Tổng hợp các tác phẩm tiêu biểu của văn học Việt Nam theo từng giai đoạn lịch sử.
@@ -22,8 +23,13 @@ Tổng hợp các tác phẩm tiêu biểu của văn học Việt Nam theo từ
 
 * Tấm Cám
 * Thạch Sanh
+* Cây Khế
 * Sọ Dừa
-* Cây Tre Trăm Đốt
+
+## Truyện cười
+
+* Trạng Quỳnh
+* Ba Giai Tú Xuất
 
 ## Sử thi
 
@@ -42,16 +48,16 @@ Tổng hợp các tác phẩm tiêu biểu của văn học Việt Nam theo từ
 ## Nguyễn Du
 
 * Truyện Kiều
-* Văn Tế Thập Loại Chúng Sinh
+* Văn Chiêu Hồn
+
+## Nguyễn Gia Thiều
+
+* Cung Oán Ngâm Khúc
 
 ## Hồ Xuân Hương
 
 * Bánh Trôi Nước
 * Tự Tình
-
-## Nguyễn Gia Thiều
-
-* Cung Oán Ngâm Khúc
 
 ## Cao Bá Quát
 
@@ -65,19 +71,22 @@ Tổng hợp các tác phẩm tiêu biểu của văn học Việt Nam theo từ
 
 * Vội Vàng
 * Đây Mùa Thu Tới
+* Tương Tư Chiều
 
 ## Huy Cận
 
 * Tràng Giang
+* Ngậm Ngùi
+
+## Hàn Mặc Tử
+
+* Đây Thôn Vĩ Dạ
+* Mùa Xuân Chín
 
 ## Nguyễn Bính
 
 * Tương Tư
 * Chân Quê
-
-## Hàn Mặc Tử
-
-* Đây Thôn Vĩ Dạ
 
 ## Chế Lan Viên
 
@@ -86,7 +95,8 @@ Tổng hợp các tác phẩm tiêu biểu của văn học Việt Nam theo từ
 ## Vũ Hoàng Chương
 
 * Riêng Gửi Kiều Thu
-* Tháng Sáu Mười Hai
+* 12 Tháng 6 Nhâm Tý, 1972
+* Say Đi Em
 
 ---
 
@@ -102,30 +112,31 @@ Tổng hợp các tác phẩm tiêu biểu của văn học Việt Nam theo từ
 
 * Số Đỏ
 * Giông Tố
+* Vỡ Đê
 
 ## Nguyễn Tuân
 
 * Chữ Người Tử Tù
-* Vang Bóng Một Thời
-
-## Tô Hoài
-
-* Dế Mèn Phiêu Lưu Ký
-* Vợ Chồng A Phủ
+* Người Lái Đò Sông Đà
 
 ## Kim Lân
 
 * Vợ Nhặt
 * Làng
 
+## Tô Hoài
+
+* Dế Mèn Phiêu Lưu Ký
+* Vợ Chồng A Phủ
+
 ---
 
-# V. Văn học Cách mạng (1945–1975)
+# V. Văn học cách mạng (1945–1975)
 
 ## Tố Hữu
 
-* Từ Ấy
 * Việt Bắc
+* Từ Ấy
 * Ra Trận
 
 ## Chính Hữu
@@ -136,9 +147,10 @@ Tổng hợp các tác phẩm tiêu biểu của văn học Việt Nam theo từ
 
 * Đất Nước
 
-## Phạm Tiến Duật
+## Xuân Diệu
 
-* Bài Thơ Về Tiểu Đội Xe Không Kính
+* Ngọn Quốc Kỳ
+* Hội Nghị Non Sông
 
 ## Chế Lan Viên
 
@@ -157,18 +169,17 @@ Tổng hợp các tác phẩm tiêu biểu của văn học Việt Nam theo từ
 
 * Nỗi Buồn Chiến Tranh
 
+## Ma Văn Kháng
+
+* Mùa Lá Rụng Trong Vườn
+
 ## Nguyễn Huy Thiệp
 
 * Tướng Về Hưu
-* Không Có Vua
 
 ## Lê Minh Khuê
 
 * Những Ngôi Sao Xa Xôi
-
-## Ma Văn Kháng
-
-* Mùa Lá Rụng Trong Vườn
 
 ## Nguyễn Ngọc Tư
 
@@ -176,7 +187,7 @@ Tổng hợp các tác phẩm tiêu biểu của văn học Việt Nam theo từ
 
 ---
 
-# VII. Nghiên cứu và Phê bình
+# VII. Nghiên cứu và phê bình
 
 ## Hoài Thanh
 
@@ -200,4 +211,4 @@ Tổng hợp các tác phẩm tiêu biểu của văn học Việt Nam theo từ
 
 ## Nguyễn Đăng Mạnh
 
-* Nhà Văn Việt Nam Hiện Đại
+* Con Đường Đi Vào Thế Giới Nghệ Thuật Của Nhà Văn
