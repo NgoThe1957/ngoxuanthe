@@ -112,16 +112,11 @@ Tập hợp các tác giả tiêu biểu trong lịch sử văn học Việt Nam
 
 ---
 
-# Phân loại theo thời kỳ
+# Phụ lục: Tác giả theo giai đoạn
 
 ## Văn học dân gian
 
-- Ca dao
-- Tục ngữ
-- Truyện cổ tích
-- Truyện cười
-- Truyện ngụ ngôn
-- Sử thi
+- Khuyết danh
 
 ## Văn học trung đại
 
