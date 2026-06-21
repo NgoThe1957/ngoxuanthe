@@ -1,13 +1,30 @@
-# Mục lục Tổng hợp Văn học Việt Nam
+# Mục Lục Tổng – Tổng Hợp Văn Học Việt Nam
 
-## I. Văn học dân gian
+## Giới thiệu
+
+Bộ sưu tập này nhằm hệ thống hóa các giai đoạn, tác giả và tác phẩm tiêu biểu của văn học Việt Nam từ văn học dân gian đến đương đại.
+
+---
+
+# I. Văn học dân gian
 
 - Ca dao
 - Tục ngữ
 - Truyện cổ tích
+- Truyện ngụ ngôn
+- Truyện cười
+- Thần thoại
 - Sử thi
 
-## II. Văn học trung đại
+Thư mục:
+
+Van-Hoc-Dan-Gian/
+
+---
+
+# II. Văn học trung đại
+
+Tác giả tiêu biểu:
 
 - Nguyễn Trãi
 - Nguyễn Du
@@ -15,16 +32,32 @@
 - Nguyễn Gia Thiều
 - Cao Bá Quát
 
-## III. Thơ Mới (1932–1945)
+Thư mục:
+
+Van-Hoc-Trung-Dai/
+
+---
+
+# III. Thơ Mới (1932–1945)
+
+Tác giả tiêu biểu:
 
 - Xuân Diệu
 - Huy Cận
-- Nguyễn Bính
 - Hàn Mặc Tử
 - Chế Lan Viên
+- Nguyễn Bính
 - Vũ Hoàng Chương
 
-## IV. Văn học hiện đại
+Thư mục:
+
+Tho-Moi/
+
+---
+
+# IV. Văn học hiện đại
+
+Tác giả tiêu biểu:
 
 - Nam Cao
 - Vũ Trọng Phụng
@@ -32,64 +65,78 @@
 - Tô Hoài
 - Kim Lân
 
-## V. Công cụ tra cứu
+Thư mục:
 
-- Tác giả A-Z
+Van-Hoc-Hien-Dai/
+
+---
+
+# V. Văn học cách mạng (1945–1975)
+
+Tác giả tiêu biểu:
+
+- Nguyễn Đình Thi
+- Chính Hữu
+- Phạm Tiến Duật
+- Chế Lan Viên
+- Tố Hữu
+
+Thư mục:
+
+Van-Hoc-Cach-Mang-1945-1975/
+
+---
+
+# VI. Văn học sau 1975
+
+Tác giả tiêu biểu:
+
+- Nguyễn Minh Châu
+- Nguyễn Huy Thiệp
+- Ma Văn Kháng
+- Lê Minh Khuê
+- Nguyễn Ngọc Tư
+- Bảo Ninh
+
+Thư mục:
+
+Van-Hoc-Sau-1975/
+
+---
+
+# VII. Nghiên cứu và phê bình
+
+Các học giả tiêu biểu:
+
+- Hoài Thanh
+- Vũ Ngọc Phan
+- Đặng Thai Mai
+- Phan Ngọc
+- Trần Đình Sử
+- Nguyễn Đăng Mạnh
+
+Thư mục:
+
+Nghien-Cuu-Phe-Binh/
+
+---
+
+# VIII. Công cụ tra cứu
+
+- Tác giả A–Z
 - Chỉ mục tác phẩm
+- Các tập chuyên đề
 
+Tài liệu:
 
-## Văn học trung đại
+- Tac-Gia-A-Z.md
+- Chi-Muc-Tac-Pham.md
+- Tap-01.md
+- Tap-02.md
+- Tap-03.md
+- Tap-04.md
+- Tap-05.md
 
-- Tập 04
-- Tập 05
-- Tập 06
-- Tập 07
-- Tập 08
-- Tập 09
-- Tập 10
+---
 
-## Văn học cận đại
-
-- Tập 11
-- Tập 12
-- Tập 13
-- Tập 14
-- Tập 15
-
-## Thơ Mới
-
-- Tập 16
-- Tập 17
-- Tập 18
-- Tập 19
-- Tập 20
-
-## Văn học kháng chiến
-
-- Tập 21
-- Tập 22
-- Tập 23
-- Tập 24
-- Tập 25
-
-## Văn học hiện đại
-
-- Tập 26
-- Tập 27
-- Tập 28
-- Tập 29
-- Tập 30
-- Tập 31
-- Tập 32
-- Tập 33
-- Tập 34
-- Tập 35
-- Tập 36
-- Tập 37
-- Tập 38
-- Tập 39
-- Tập 40
-- Tập 41
-- Tập 42
-
-© Ngô Xuân Thể
+© Ngô Xuân Thế
