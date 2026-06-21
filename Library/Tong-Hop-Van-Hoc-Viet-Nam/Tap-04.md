@@ -1,19 +1,60 @@
-# Tập 04
 
-## Giai đoạn
+# TẬP 04
 
-Văn học trung đại
+# VĂN HỌC HIỆN ĐẠI VIỆT NAM
 
-## Tác giả tiêu biểu
+## Lời mở đầu
 
-- Nguyễn Du
+Văn học hiện đại phản ánh sâu sắc đời sống xã hội Việt Nam đầu thế kỷ XX.
 
-## Tác phẩm tiêu biểu
+---
 
-- Truyện Kiều
+# Chương I
 
-## Ghi chú học thuật
+## Nam Cao
 
-Đỉnh cao của văn học trung đại Việt Nam.
+* Chí Phèo
+* Lão Hạc
+* Đời Thừa
 
-© Ngô Xuân Thể
+---
+
+# Chương II
+
+## Vũ Trọng Phụng
+
+* Số Đỏ
+* Giông Tố
+
+---
+
+# Chương III
+
+## Nguyễn Tuân
+
+* Chữ Người Tử Tù
+* Vang Bóng Một Thời
+
+---
+
+# Chương IV
+
+## Tô Hoài
+
+* Dế Mèn Phiêu Lưu Ký
+* Vợ Chồng A Phủ
+
+---
+
+# Chương V
+
+## Kim Lân
+
+* Làng
+* Vợ Nhặt
+
+---
+
+# Kết luận
+
+Văn học hiện đại đặt nền tảng cho nền văn xuôi Việt Nam thế kỷ XX.
