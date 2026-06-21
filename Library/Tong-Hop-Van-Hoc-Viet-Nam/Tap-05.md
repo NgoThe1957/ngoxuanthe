@@ -1,21 +1,65 @@
-# Tập 05
 
-## Giai đoạn
+# TẬP 05
 
-Văn học trung đại
+# VĂN HỌC CÁCH MẠNG (1945–1975)
 
-## Tác giả tiêu biểu
+## Lời mở đầu
 
-- Nguyễn Gia Thiều
-- Đoàn Thị Điểm
+Đây là giai đoạn văn học gắn liền với hai cuộc kháng chiến của dân tộc.
 
-## Tác phẩm tiêu biểu
+---
 
-- Cung oán ngâm khúc
-- Chinh phụ ngâm
+# Chương I
 
-## Ghi chú học thuật
+## Tố Hữu
 
-Dòng văn học ngâm khúc và tâm thức cá nhân trong xã hội phong kiến.
+* Từ Ấy
+* Việt Bắc
+* Ra Trận
 
-© Ngô Xuân Thể
+---
+
+# Chương II
+
+## Chính Hữu
+
+* Đồng Chí
+
+---
+
+# Chương III
+
+## Nguyễn Đình Thi
+
+* Đất Nước
+
+---
+
+# Chương IV
+
+## Phạm Tiến Duật
+
+* Bài Thơ Về Tiểu Đội Xe Không Kính
+
+---
+
+# Chương V
+
+## Chế Lan Viên
+
+* Ánh Sáng Và Phù Sa
+
+---
+
+# Chương VI
+
+## Xuân Diệu
+
+* Ngọn Quốc Kỳ
+* Hội Nghị Non Sông
+
+---
+
+# Kết luận
+
+Văn học cách mạng là tiếng nói của lý tưởng, lòng yêu nước và khát vọng độc lập dân tộc.
