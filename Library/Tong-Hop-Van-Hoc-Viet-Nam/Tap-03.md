@@ -1,20 +1,80 @@
-# Tập 03
 
-## Giai đoạn
+# TẬP 03
 
-Văn học trung đại
+# THƠ MỚI (1932–1945)
 
-## Tác giả tiêu biểu
+## Lời mở đầu
 
-- Nguyễn Trãi
+Phong trào Thơ Mới là cuộc cách mạng lớn trong thi ca Việt Nam thế kỷ XX.
 
-## Tác phẩm tiêu biểu
+---
 
-- Bình Ngô đại cáo
-- Quốc âm thi tập
+# Chương I
 
-## Ghi chú học thuật
+## Khái quát Thơ Mới
 
-Sự hình thành ý thức dân tộc và văn học yêu nước đầu thời Lê.
+### Đặc điểm
 
-© Ngô Xuân Thể
+* Cái tôi cá nhân.
+* Tự do cảm xúc.
+* Đổi mới ngôn ngữ và nhạc điệu.
+
+---
+
+# Chương II
+
+## Xuân Diệu
+
+* Vội Vàng
+* Đây Mùa Thu Tới
+
+---
+
+# Chương III
+
+## Huy Cận
+
+* Tràng Giang
+* Ngậm Ngùi
+
+---
+
+# Chương IV
+
+## Hàn Mặc Tử
+
+* Đây Thôn Vĩ Dạ
+* Mùa Xuân Chín
+
+---
+
+# Chương V
+
+## Nguyễn Bính
+
+* Tương Tư
+* Chân Quê
+
+---
+
+# Chương VI
+
+## Chế Lan Viên
+
+* Điêu Tàn
+
+---
+
+# Chương VII
+
+## Vũ Hoàng Chương
+
+* Thơ Say
+* Riêng Gửi Kiều Thu
+* 12 Tháng 6 Nhâm Tý, 1972
+
+---
+
+# Kết luận
+
+Thơ Mới mở ra thời đại thi ca hiện đại của Việt Nam.
