@@ -1,35 +1,77 @@
-## Các hướng nghiên cứu chính
+# TẬP 07
 
-### Lịch sử văn học
+# NGHIÊN CỨU VÀ PHÊ BÌNH VĂN HỌC
 
-- Hoài Thanh
-- Đặng Thai Mai
-- Vũ Ngọc Phan
+## Lời mở đầu
 
-### Thi pháp học
-
-- Trần Đình Sử
-
-### Phong cách học
-
-- Phan Ngọc
-
-### Phê bình hiện đại
-
-- Nguyễn Đăng Mạnh
+Nghiên cứu và phê bình văn học góp phần hệ thống hóa, lý giải và đánh giá các giá trị văn học Việt Nam.
 
 ---
 
-## Giá trị
+# Chương I
 
-Nghiên cứu và phê bình văn học giúp:
+## Hoài Thanh
 
-- Hệ thống hóa lịch sử văn học Việt Nam.
-- Giải thích giá trị của tác phẩm.
-- Định hướng tiếp nhận văn học.
-- Kết nối văn học với văn hóa dân tộc.
-- Bảo tồn di sản tinh thần Việt Nam.
+Tác phẩm:
+
+* Thi Nhân Việt Nam
+
+Đóng góp:
+
+Nhà phê bình lớn của phong trào Thơ Mới.
 
 ---
 
-© Ngô Xuân Thể
+# Chương II
+
+## Vũ Ngọc Phan
+
+Tác phẩm:
+
+* Nhà Văn Hiện Đại
+
+---
+
+# Chương III
+
+## Đặng Thai Mai
+
+Tác phẩm:
+
+* Văn Học Khái Luận
+
+---
+
+# Chương IV
+
+## Phan Ngọc
+
+Tác phẩm:
+
+* Tìm Hiểu Phong Cách Nguyễn Du
+
+---
+
+# Chương V
+
+## Trần Đình Sử
+
+Tác phẩm:
+
+* Thi Pháp Truyện Kiều
+
+---
+
+# Chương VI
+
+## Nguyễn Đăng Mạnh
+
+Tác phẩm:
+
+* Nhà Văn Việt Nam Hiện Đại
+
+---
+
+# Kết luận
+
+Nghiên cứu và phê bình là bộ phận không thể thiếu của đời sống văn học.
