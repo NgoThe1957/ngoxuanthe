@@ -1,81 +1,79 @@
-# Văn học Việt Nam sau 1975
+# TẬP 06
 
-Sau năm 1975, đặc biệt từ thời kỳ Đổi mới (1986), văn học Việt Nam bước vào giai đoạn phát triển mới với nhiều đổi thay trong tư duy nghệ thuật và cách tiếp cận hiện thực.
+# VĂN HỌC VIỆT NAM SAU 1975
 
----
+## Lời mở đầu
 
-## Giới thiệu
-
-Đây là giai đoạn văn học phản ánh sâu sắc đời sống con người trong thời bình, những biến động xã hội và quá trình hội nhập của đất nước.
-
-Các tác phẩm chú trọng:
-
-- Số phận con người
-- Hậu quả chiến tranh
-- Đời sống đô thị
-- Những vấn đề xã hội đương đại
-- Khát vọng đổi mới
+Sau năm 1975, đất nước thống nhất, văn học Việt Nam bước vào một giai đoạn mới. Các nhà văn hướng ngòi bút vào những vấn đề đời sống, số phận con người và những đổi thay của xã hội.
 
 ---
 
-## Tác giả tiêu biểu
+# Chương I
 
-- Nguyễn Minh Châu
-- Bảo Ninh
-- Nguyễn Huy Thiệp
-- Lê Minh Khuê
-- Ma Văn Kháng
-- Nguyễn Ngọc Tư
+## Bối cảnh lịch sử
 
----
-
-## Đặc điểm nổi bật
-
-### Nhìn lại chiến tranh
-
-- Nỗi buồn chiến tranh
-- Bến quê
-
-### Đổi mới nghệ thuật
-
-- Tướng về hưu
-- Những ngọn gió Hua Tát
-
-### Đời sống đương đại
-
-- Mùa lá rụng trong vườn
-- Cánh đồng bất tận
+* Đất nước thống nhất.
+* Công cuộc đổi mới.
+* Hội nhập quốc tế.
 
 ---
 
-## Tác phẩm tiêu biểu
+# Chương II
 
-### Nguyễn Minh Châu
+## Nguyễn Minh Châu
 
-- Bến quê
-- Chiếc thuyền ngoài xa
+Tác phẩm:
 
-### Bảo Ninh
+* Bến Quê
+* Chiếc Thuyền Ngoài Xa
 
-- Nỗi buồn chiến tranh
+Đóng góp:
 
-### Nguyễn Huy Thiệp
-
-- Tướng về hưu
-- Chảy đi sông ơi
-
-### Lê Minh Khuê
-
-- Những ngôi sao xa xôi
-
-### Ma Văn Kháng
-
-- Mùa lá rụng trong vườn
-
-### Nguyễn Ngọc Tư
-
-- Cánh đồng bất tận
+Người mở đường tinh anh cho văn học đổi mới.
 
 ---
 
-© Ngô Xuân Thể
+# Chương III
+
+## Bảo Ninh
+
+Tác phẩm:
+
+* Nỗi Buồn Chiến Tranh
+
+---
+
+# Chương IV
+
+## Nguyễn Huy Thiệp
+
+Tác phẩm:
+
+* Tướng Về Hưu
+* Không Có Vua
+
+---
+
+# Chương V
+
+## Lê Minh Khuê
+
+Tác phẩm:
+
+* Những Ngôi Sao Xa Xôi
+
+---
+
+# Chương VI
+
+## Nguyễn Ngọc Tư
+
+Tác phẩm:
+
+* Cánh Đồng Bất Tận
+
+---
+
+# Kết luận
+
+Văn học sau 1975 mở rộng biên độ phản ánh hiện thực và khám phá chiều sâu con người.
