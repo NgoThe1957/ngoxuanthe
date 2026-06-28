@@ -83,7 +83,7 @@ Mục lục được xây dựng nhằm giúp người đọc nhanh chóng tra c
 
 # III. DANH MỤC CÁC TẬP
 
-| Tập    | Nội dung         |
+| Tập    | Tác giả         |
 | ------ | ---------------- |
 | Tap-01 | ...              |
 | Tap-02 | ...              |
@@ -119,3 +119,11 @@ Sau khi hoàn thành Version 1.5, dự án sẽ tiếp tục:
 # Ghi chú
 
 Mục lục này được cập nhật sau mỗi lần bổ sung hoặc chỉnh sửa lớn của dự án nhằm bảo đảm tính thống nhất giữa các tài liệu và toàn bộ cấu trúc thư viện.
+
+# Cập nhật
+
+Tài liệu này được rà soát và cập nhật trong mỗi giai đoạn phát triển của dự án.
+
+Phiên bản hiện tại:
+
+**Version 1.5 – Academic Review**
