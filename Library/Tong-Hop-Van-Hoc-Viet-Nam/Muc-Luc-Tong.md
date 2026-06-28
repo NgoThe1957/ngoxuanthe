@@ -1,142 +1,121 @@
-# Mục Lục Tổng – Tổng Hợp Văn Học Việt Nam
+# MỤC LỤC TỔNG
+
+# TỔNG HỢP VĂN HỌC VIỆT NAM
+
+---
 
 ## Giới thiệu
 
-Bộ sưu tập này nhằm hệ thống hóa các giai đoạn, tác giả và tác phẩm tiêu biểu của văn học Việt Nam từ văn học dân gian đến đương đại.
+Tài liệu này là mục lục tổng của dự án **Tổng Hợp Văn Học Việt Nam**.
+
+Mục lục được xây dựng nhằm giúp người đọc nhanh chóng tra cứu các giai đoạn văn học, tác giả và những tài liệu quan trọng của dự án.
 
 ---
 
-# I. Văn học dân gian
+# I. TÀI LIỆU CHÍNH
 
-- Ca dao
-- Tục ngữ
-- Truyện cổ tích
-- Truyện ngụ ngôn
-- Truyện cười
-- Thần thoại
-- Sử thi
-
-Thư mục:
-
-Van-Hoc-Dan-Gian/
+* README.md
+* Version-History.md
+* Muc-Luc-Tong.md
+* Tac-Gia-A-Z.md
+* Chi-Muc-Tac-Pham.md
 
 ---
 
-# II. Văn học trung đại
+# II. CẤU TRÚC THƯ VIỆN
 
-Tác giả tiêu biểu:
+## 1. Văn học dân gian
 
-- Nguyễn Trãi
-- Nguyễn Du
-- Hồ Xuân Hương
-- Nguyễn Gia Thiều
-- Cao Bá Quát
-
-Thư mục:
-
-Van-Hoc-Trung-Dai/
+* Thần thoại
+* Truyền thuyết
+* Sử thi
+* Truyện cổ tích
+* Truyện cười
+* Ca dao
+* Tục ngữ
 
 ---
 
-# III. Thơ Mới (1932–1945)
+## 2. Văn học trung đại
 
-Tác giả tiêu biểu:
-
-- Xuân Diệu
-- Huy Cận
-- Hàn Mặc Tử
-- Chế Lan Viên
-- Nguyễn Bính
-- Vũ Hoàng Chương
-
-Thư mục:
-
-Tho-Moi/
+* Văn học thời Lý – Trần
+* Văn học thời Lê
+* Văn học thế kỷ XVIII
+* Văn học thời Nguyễn
 
 ---
 
-# IV. Văn học hiện đại
+## 3. Thơ Mới
 
-Tác giả tiêu biểu:
-
-- Nam Cao
-- Vũ Trọng Phụng
-- Nguyễn Tuân
-- Tô Hoài
-- Kim Lân
-
-Thư mục:
-
-Van-Hoc-Hien-Dai/
+* Tap-11
+* Tap-12
+* Tap-13
+* Tap-14
+* Tap-15
 
 ---
 
-# V. Văn học cách mạng (1945–1975)
+## 4. Văn học hiện đại
 
-Tác giả tiêu biểu:
-
-- Nguyễn Đình Thi
-- Chính Hữu
-- Phạm Tiến Duật
-- Chế Lan Viên
-- Tố Hữu
-
-Thư mục:
-
-Van-Hoc-Cach-Mang-1945-1975/
+* Tap-16
+* Tap-17
+* Tap-18
+* Tap-19
+* Tap-20
+* Tap-21
+* Tap-22
+* Tap-23
 
 ---
 
-# VI. Văn học sau 1975
+## 5. Văn học sau 1975
 
-Tác giả tiêu biểu:
-
-- Nguyễn Minh Châu
-- Nguyễn Huy Thiệp
-- Ma Văn Kháng
-- Lê Minh Khuê
-- Nguyễn Ngọc Tư
-- Bảo Ninh
-
-Thư mục:
-
-Van-Hoc-Sau-1975/
+* Tap-24
+* Tap-25
 
 ---
 
-# VII. Nghiên cứu và phê bình
+## 6. Nghiên cứu – Phê bình
 
-Các học giả tiêu biểu:
-
-- Hoài Thanh
-- Vũ Ngọc Phan
-- Đặng Thai Mai
-- Phan Ngọc
-- Trần Đình Sử
-- Nguyễn Đăng Mạnh
-
-Thư mục:
-
-Nghien-Cuu-Phe-Binh/
+(Tiếp tục cập nhật)
 
 ---
 
-# VIII. Công cụ tra cứu
+# III. DANH MỤC CÁC TẬP
 
-- Tác giả A–Z
-- Chỉ mục tác phẩm
-- Các tập chuyên đề
+| Tập    | Nội dung         |
+| ------ | ---------------- |
+| Tap-01 | ...              |
+| Tap-02 | ...              |
+| ...    | ...              |
+| Tap-25 | Nguyễn Huy Thiệp |
 
-Tài liệu:
-
-- Tac-Gia-A-Z.md
-- Chi-Muc-Tac-Pham.md
-- Tap-01.md
-- Tap-02.md
-- Tap-03.md
-- Tap-04.md
-- Tap-05.md
+*(Danh mục sẽ được cập nhật đầy đủ sau khi hoàn tất Version 1.5.)*
 
 ---
 
-© Ngô Xuân Thế
+# IV. TIẾN ĐỘ DỰ ÁN
+
+| Giai đoạn       | Trạng thái        |
+| --------------- | ----------------- |
+| Tap-01 → Tap-25 | ✅ Hoàn thành      |
+| Version 1.5     | 🔄 Đang kiểm định |
+| Tap-26 → Tap-42 | ⏳ Chuẩn bị        |
+
+---
+
+# V. ĐỊNH HƯỚNG
+
+Sau khi hoàn thành Version 1.5, dự án sẽ tiếp tục:
+
+* Hoàn thiện Tap-26 → Tap-42.
+* Chuẩn hóa toàn bộ hệ thống.
+* Bổ sung phụ lục học thuật.
+* Phát triển phiên bản PDF và ePub.
+* Xây dựng GitHub Pages.
+
+---
+
+# Ghi chú
+
+Mục lục này được cập nhật sau mỗi lần bổ sung hoặc chỉnh sửa lớn của dự án nhằm bảo đảm tính thống nhất giữa các tài liệu và toàn bộ cấu trúc thư viện.
