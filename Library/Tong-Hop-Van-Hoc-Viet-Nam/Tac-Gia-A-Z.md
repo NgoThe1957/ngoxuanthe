@@ -49,3 +49,9 @@ Tài liệu này được rà soát và đồng bộ với toàn bộ dự án t
 **Phiên bản hiện tại:**
 
 **Version 1.5 – Academic Review**
+
+## Thống kê
+
+* Tổng số tác giả hiện có: **14**
+* Hoàn thành: **Tap-01 → Tap-25**
+* Phiên bản hiện tại: **Version 1.5 – Academic Review**
