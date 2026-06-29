@@ -101,3 +101,19 @@ Sau khi hoàn thành Version 2.0, dự án sẽ hướng tới:
 Version-History.md là tài liệu ghi nhận quá trình hình thành và phát triển của dự án.
 
 Mỗi khi hoàn thành một giai đoạn quan trọng, tài liệu này sẽ được cập nhật để phản ánh trung thực lịch sử phát triển của công trình.
+
+
+---
+## Cập nhật Version 1.5
+
+### Academic Review
+
+Đã hoàn thành chuẩn hóa hệ thống tài liệu nền:
+
+* ✅ README.md
+* ✅ Version-History.md
+* ✅ Muc-Luc-Tong.md
+* ✅ Tac-Gia-A-Z.md
+* ✅ Chi-Muc-Tac-Pham.md
+
+Các tài liệu đã được thống nhất về cấu trúc, nội dung và định hướng phát triển, tạo nền tảng cho giai đoạn kiểm định nội dung và biên soạn các tập tiếp theo của dự án.
