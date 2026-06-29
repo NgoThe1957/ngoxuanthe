@@ -1,214 +1,57 @@
+# CHỈ MỤC TÁC PHẨM
 
-# Chỉ Mục Tác Phẩm Văn Học Việt Nam
-
-Tổng hợp các tác phẩm tiêu biểu của văn học Việt Nam theo từng giai đoạn lịch sử.
-
----
-
-# I. Văn học dân gian
-
-## Ca dao
-
-* Ca dao than thân
-* Ca dao yêu thương tình nghĩa
-* Ca dao lao động sản xuất
-
-## Tục ngữ
-
-* Tục ngữ về thiên nhiên
-* Tục ngữ về lao động
-* Tục ngữ về đạo đức
-
-## Truyện cổ tích
-
-* Tấm Cám
-* Thạch Sanh
-* Cây Khế
-* Sọ Dừa
-
-## Truyện cười
-
-* Trạng Quỳnh
-* Ba Giai Tú Xuất
-
-## Sử thi
-
-* Đăm Săn
-* Đẻ Đất Đẻ Nước
+# TỔNG HỢP VĂN HỌC VIỆT NAM
 
 ---
 
-# II. Văn học trung đại
+## Giới thiệu
 
-## Nguyễn Trãi
+Tài liệu này là chỉ mục tra cứu các tác phẩm tiêu biểu được giới thiệu trong dự án **Tổng Hợp Văn Học Việt Nam**.
 
-* Bình Ngô Đại Cáo
-* Quốc Âm Thi Tập
-
-## Nguyễn Du
-
-* Truyện Kiều
-* Văn Chiêu Hồn
-
-## Nguyễn Gia Thiều
-
-* Cung Oán Ngâm Khúc
-
-## Hồ Xuân Hương
-
-* Bánh Trôi Nước
-* Tự Tình
-
-## Cao Bá Quát
-
-* Sa Hành Đoản Ca
+Các tác phẩm được sắp xếp theo tên tác phẩm nhằm giúp người đọc nhanh chóng xác định tác giả, tập sách và giai đoạn văn học tương ứng.
 
 ---
 
-# III. Thơ Mới (1932–1945)
+# Bảng tra cứu
 
-## Xuân Diệu
+| STT | Tác phẩm            | Tác giả       |         Tập        | Giai đoạn                 |
+| --: | ------------------- | ------------- | :----------------: | ------------------------- |
+|   1 | Bánh trôi nước      | Hồ Xuân Hương |       Tap-08       | Văn học trung đại         |
+|   2 | Bình Ngô đại cáo    | Nguyễn Trãi   |       Tap-03       | Văn học trung đại         |
+|   3 | Chí Phèo            | Nam Cao       |       Tap-21       | Văn học hiện đại          |
+|   4 | Đất rừng phương Nam | Đoàn Giỏi     | Tap-26 *(dự kiến)* | Văn học hiện đại          |
+|   5 | Hai đứa trẻ         | Thạch Lam     |       Tap-17       | Thơ Mới / Tự Lực Văn Đoàn |
+|   6 | Lão Hạc             | Nam Cao       |       Tap-21       | Văn học hiện đại          |
+|   7 | Tắt đèn             | Ngô Tất Tố    | Tap-26 *(dự kiến)* | Văn học hiện đại          |
+|   8 | Truyện Kiều         | Nguyễn Du     |       Tap-04       | Văn học trung đại         |
+|   9 | Vang bóng một thời  | Nguyễn Tuân   |       Tap-20       | Văn học hiện đại          |
+|  10 | Vợ nhặt             | Kim Lân       |       Tap-23       | Văn học hiện đại          |
 
-* Vội Vàng
-* Đây Mùa Thu Tới
-* Tương Tư Chiều
-
-## Huy Cận
-
-* Tràng Giang
-* Ngậm Ngùi
-
-## Hàn Mặc Tử
-
-* Đây Thôn Vĩ Dạ
-* Mùa Xuân Chín
-
-## Nguyễn Bính
-
-* Tương Tư
-* Chân Quê
-
-## Chế Lan Viên
-
-* Điêu Tàn
-
-## Vũ Hoàng Chương
-
-* Riêng Gửi Kiều Thu
-* 12 Tháng 6 Nhâm Tý, 1972
-* Say Đi Em
+> **Lưu ý:** Đây là danh mục ban đầu. Chỉ mục sẽ được mở rộng và cập nhật khi hoàn thành các tập tiếp theo của dự án.
 
 ---
 
-# IV. Văn học hiện đại
+# Nguyên tắc lập chỉ mục
 
-## Nam Cao
-
-* Chí Phèo
-* Lão Hạc
-* Đời Thừa
-
-## Vũ Trọng Phụng
-
-* Số Đỏ
-* Giông Tố
-* Vỡ Đê
-
-## Nguyễn Tuân
-
-* Chữ Người Tử Tù
-* Người Lái Đò Sông Đà
-
-## Kim Lân
-
-* Vợ Nhặt
-* Làng
-
-## Tô Hoài
-
-* Dế Mèn Phiêu Lưu Ký
-* Vợ Chồng A Phủ
+* Mỗi tác phẩm chỉ xuất hiện một lần trong bảng tra cứu.
+* Ưu tiên các tác phẩm tiêu biểu đã được giới thiệu trong từng tập.
+* Tên tác phẩm được giữ theo cách viết phổ biến trong các tài liệu nghiên cứu.
+* Chỉ mục được cập nhật đồng thời với mỗi phiên bản của dự án.
 
 ---
 
-# V. Văn học cách mạng (1945–1975)
+# Thống kê
 
-## Tố Hữu
-
-* Việt Bắc
-* Từ Ấy
-* Ra Trận
-
-## Chính Hữu
-
-* Đồng Chí
-
-## Nguyễn Đình Thi
-
-* Đất Nước
-
-## Xuân Diệu
-
-* Ngọn Quốc Kỳ
-* Hội Nghị Non Sông
-
-## Chế Lan Viên
-
-* Ánh Sáng Và Phù Sa
+* Tổng số tác phẩm hiện có trong chỉ mục: *(đang cập nhật)*
+* Số tập đã hoàn thành: **25 / 42**
+* Phiên bản hiện tại: **Version 1.5 – Academic Review**
 
 ---
 
-# VI. Văn học sau 1975
+# Cập nhật
 
-## Nguyễn Minh Châu
+Tài liệu này được rà soát và đồng bộ với toàn bộ dự án trong mỗi lần phát hành phiên bản mới nhằm bảo đảm tính chính xác và thuận tiện cho việc tra cứu.
 
-* Bến Quê
-* Chiếc Thuyền Ngoài Xa
+**Phiên bản hiện tại:**
 
-## Bảo Ninh
-
-* Nỗi Buồn Chiến Tranh
-
-## Ma Văn Kháng
-
-* Mùa Lá Rụng Trong Vườn
-
-## Nguyễn Huy Thiệp
-
-* Tướng Về Hưu
-
-## Lê Minh Khuê
-
-* Những Ngôi Sao Xa Xôi
-
-## Nguyễn Ngọc Tư
-
-* Cánh Đồng Bất Tận
-
----
-
-# VII. Nghiên cứu và phê bình
-
-## Hoài Thanh
-
-* Thi Nhân Việt Nam
-
-## Vũ Ngọc Phan
-
-* Nhà Văn Hiện Đại
-
-## Đặng Thai Mai
-
-* Văn Thơ Cách Mạng Việt Nam
-
-## Phan Ngọc
-
-* Tìm Hiểu Phong Cách Nguyễn Du
-
-## Trần Đình Sử
-
-* Thi Pháp Truyện Kiều
-
-## Nguyễn Đăng Mạnh
-
-* Con Đường Đi Vào Thế Giới Nghệ Thuật Của Nhà Văn
+**Version 1.5 – Academic Review**
