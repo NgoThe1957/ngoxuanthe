@@ -70,3 +70,11 @@ Một trong những bài thơ đẹp nhất về mùa thu trong thơ Việt Nam 
 # Kết luận
 
 Xuân Diệu là nhà thơ của tình yêu, tuổi trẻ và niềm say mê cuộc sống.
+
+---
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
+
