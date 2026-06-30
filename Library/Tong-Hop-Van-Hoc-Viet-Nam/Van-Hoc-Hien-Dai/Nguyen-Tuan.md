@@ -151,3 +151,11 @@ Nguyễn Tuân là nghệ sĩ lớn của văn học Việt Nam hiện đại. V
 - Tô Hoài
 - Kim Lân
 - Vũ Trọng Phụng
+
+---
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
+
