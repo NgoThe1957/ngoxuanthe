@@ -35,4 +35,10 @@ Giai đoạn văn học từ thế kỷ X đến cuối thế kỷ XIX.
 - Văn học Nho giáo
 - Văn học chữ Nôm
 
-© Ngô Xuân Thể
+----
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
+
