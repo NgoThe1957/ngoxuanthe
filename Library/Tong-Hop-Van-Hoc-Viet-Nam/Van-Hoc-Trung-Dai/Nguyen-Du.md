@@ -48,3 +48,12 @@ Nguyễn Du (1765–1820), tên chữ Tố Như, hiệu Thanh Hiên, là đại 
 ## Kết luận
 
 Nguyễn Du là đỉnh cao của văn học trung đại Việt Nam.
+
+----
+
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
+
