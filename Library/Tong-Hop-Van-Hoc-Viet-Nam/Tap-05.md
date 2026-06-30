@@ -64,6 +64,7 @@
 
 Văn học cách mạng là tiếng nói của lý tưởng, lòng yêu nước và khát vọng độc lập dân tộc.
 
+---
 
 ## Biên soạn
 
