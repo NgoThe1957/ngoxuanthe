@@ -24,8 +24,8 @@ Phong trào Thơ Mới (1932–1945) là một cuộc cách mạng trong lịch 
 
 ## Xuân Diệu
 
-* Vội Vàng
-* Đây Mùa Thu Tới
+* Vội vàng
+* Đây mùa thu tới
 
 ---
 
@@ -33,8 +33,8 @@ Phong trào Thơ Mới (1932–1945) là một cuộc cách mạng trong lịch 
 
 ## Huy Cận
 
-* Tràng Giang
-* Ngậm Ngùi
+* Tràng giang
+* Ngậm ngùi
 
 ---
 
@@ -42,8 +42,8 @@ Phong trào Thơ Mới (1932–1945) là một cuộc cách mạng trong lịch 
 
 ## Hàn Mặc Tử
 
-* Đây Thôn Vĩ Dạ
-* Mùa Xuân Chín
+* Đây thôn Vỹ Dạ
+* Mùa xuân chín
 
 ---
 
@@ -51,8 +51,8 @@ Phong trào Thơ Mới (1932–1945) là một cuộc cách mạng trong lịch 
 
 ## Nguyễn Bính
 
-* Tương Tư
-* Chân Quê
+* Tương tư
+* Chân quê
 
 ---
 
@@ -60,7 +60,7 @@ Phong trào Thơ Mới (1932–1945) là một cuộc cách mạng trong lịch 
 
 ## Chế Lan Viên
 
-* Điêu Tàn
+* Điêu tàn
 
 ---
 
@@ -69,7 +69,7 @@ Phong trào Thơ Mới (1932–1945) là một cuộc cách mạng trong lịch 
 ## Vũ Hoàng Chương
 
 * Thơ say
-* Riêng sửi Kiều Thu
+* Riêng gửi Kiều Thu
 * 12 Tháng 6 Nhâm Tý, 1972
 
 ---
