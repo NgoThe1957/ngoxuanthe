@@ -173,7 +173,6 @@ Kim Lân là nhà văn của làng quê Việt Nam và của những con ngườ
 * Nguyễn Công Hoan
 
 ---
-
 ## Biên soạn
 
 **Ngô Xuân Thể**
