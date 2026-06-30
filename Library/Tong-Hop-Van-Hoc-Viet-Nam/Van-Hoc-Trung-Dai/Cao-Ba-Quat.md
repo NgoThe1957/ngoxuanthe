@@ -61,3 +61,12 @@ Tác phẩm nổi tiếng nhất.
 # Kết luận
 
 Cao Bá Quát là nhà thơ của tự do và khí phách.
+
+---
+
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
+
