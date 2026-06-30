@@ -92,3 +92,12 @@ Tập thơ chữ Hán nổi tiếng.
 # Kết luận
 
 Nguyễn Trãi là một trong những nhân vật vĩ đại nhất của lịch sử và văn học Việt Nam.
+
+---
+
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
+
