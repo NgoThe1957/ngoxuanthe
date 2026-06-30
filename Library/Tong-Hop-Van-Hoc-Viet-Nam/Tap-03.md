@@ -42,7 +42,7 @@ Phong trào Thơ Mới (1932–1945) là một cuộc cách mạng trong lịch 
 
 ## Hàn Mặc Tử
 
-* Đây thôn Vỹ Dạ
+* Đây thôn Vĩ Dạ
 * Mùa xuân chín
 
 ---
