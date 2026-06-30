@@ -40,4 +40,8 @@ Phạm Tiến Duật (1941–2007) là nhà thơ tiêu biểu của thế hệ c
 
 ---
 
-© Ngô Xuân Thể
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
