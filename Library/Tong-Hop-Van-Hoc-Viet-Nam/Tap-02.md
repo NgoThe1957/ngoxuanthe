@@ -91,10 +91,28 @@ Trong gần một nghìn năm, văn học trung đại phản ánh lịch sử d
 
 # Kết luận
 
-Văn học trung đại đặt nền móng cho sự phát triển của văn học Việt Nam hiện đại.
+Văn học trung đại đặt nền móng cho sự phát triển của văn học Việt Nam hiện đại.## Kết luận
+
+Văn học trung đại Việt Nam là giai đoạn hình thành và phát triển nền văn học viết dân tộc, kết tinh nhiều giá trị tư tưởng và nghệ thuật đặc sắc. Những thành tựu của thời kỳ này không chỉ phản ánh lịch sử, văn hóa và tâm hồn dân tộc mà còn tạo nền tảng vững chắc cho sự phát triển của văn học hiện đại Việt Nam.
+
+## Vị trí trong văn học Việt Nam
+
+Văn học trung đại là giai đoạn đặt nền móng cho văn học viết Việt Nam và đánh dấu sự phát triển mạnh mẽ của tư tưởng nhân nghĩa, lòng yêu nước và ý thức dân tộc. Những thành tựu của văn học chữ Hán và chữ Nôm trong thời kỳ này đã tạo nên các giá trị kinh điển, có ảnh hưởng sâu sắc đến tiến trình phát triển của văn học Việt Nam.
+
+## Ảnh hưởng đối với văn học Việt Nam
+
+Văn học trung đại đã để lại nhiều giá trị bền vững về tư tưởng, nghệ thuật và ngôn ngữ. Các tác giả như Nguyễn Trãi, Nguyễn Du, Hồ Xuân Hương và Cao Bá Quát đã trở thành nguồn cảm hứng cho nhiều thế hệ nhà văn, nhà thơ sau này. Những tác phẩm tiêu biểu của thời kỳ này vẫn giữ vị trí quan trọng trong chương trình giáo dục và nghiên cứu văn học Việt Nam.
 
 ---
+## Tài liệu tham khảo
 
+* Tổng tập Văn học Việt Nam.
+* Văn học Việt Nam từ thế kỷ X đến hết thế kỷ XIX.
+* Từ điển Văn học.
+* Giáo trình Văn học trung đại Việt Nam.
+* Các công trình nghiên cứu về Nguyễn Trãi, Nguyễn Du và Hồ Xuân Hương.
+
+---
 ## Biên soạn
 
 **Ngô Xuân Thể**
