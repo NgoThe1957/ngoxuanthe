@@ -68,8 +68,8 @@ Phong trào Thơ Mới (1932–1945) là một cuộc cách mạng trong lịch 
 
 ## Vũ Hoàng Chương
 
-* Thơ Say
-* Riêng Gửi Kiều Thu
+* Thơ say
+* Riêng sửi Kiều Thu
 * 12 Tháng 6 Nhâm Tý, 1972
 
 ---
@@ -81,7 +81,7 @@ Phong trào Thơ Mới đã đánh dấu bước chuyển quan trọng từ thi 
 ---
 ## Vị trí trong văn học Việt Nam
 
-Thơ Mới là một trong những phong trào văn học có ảnh hưởng sâu sắc nhất của thế kỷ XX. Những đổi mới về tư duy nghệ thuật, ngôn ngữ và cảm xúc đã tạo nền tảng cho sự phát triển của thơ Việt Nam hiện đại.## Ảnh hưởng đối với văn học Việt Nam
+Thơ Mới là một trong những phong trào văn học có ảnh hưởng sâu sắc nhất của thế kỷ XX. Những đổi mới về tư duy nghệ thuật, ngôn ngữ và cảm xúc đã tạo nền tảng cho sự phát triển của thơ Việt Nam hiện đại.
 
 ## Ảnh hưởng đối với văn học Việt Nam
 
