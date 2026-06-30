@@ -42,4 +42,8 @@ Tố Hữu (1920–2002) là nhà thơ tiêu biểu nhất của nền thơ các
 
 ---
 
-© Ngô Xuân Thể
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
