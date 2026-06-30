@@ -171,3 +171,11 @@ Kim Lân là nhà văn của làng quê Việt Nam và của những con ngườ
 * Nguyễn Tuân
 * Nguyễn Minh Châu
 * Nguyễn Công Hoan
+
+---
+
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
