@@ -59,6 +59,7 @@ Văn học hiện đại phản ánh sâu sắc đời sống xã hội Việt N
 
 Văn học hiện đại đặt nền tảng cho nền văn xuôi Việt Nam thế kỷ XX.
 
+---
 
 ## Biên soạn
 
