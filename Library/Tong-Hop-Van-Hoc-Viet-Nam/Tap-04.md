@@ -65,8 +65,8 @@ Văn học hiện đại là giai đoạn đánh dấu sự phát triển toàn 
 
 ## Ảnh hưởng đối với văn học Việt Nam
 
-
 Các nhà văn tiêu biểu của văn học hiện đại như Nam Cao, Vũ Trọng Phụng, Nguyễn Tuân, Tô Hoài và Kim Lân đã để lại nhiều tác phẩm có giá trị lâu bền. Tư tưởng nhân văn, nghệ thuật tự sự và phong cách sáng tác của họ tiếp tục ảnh hưởng sâu rộng đến nhiều thế hệ nhà văn, nhà nghiên cứu và bạn đọc Việt Nam.
+
 ---
 ## Tài liệu tham khảo
 
