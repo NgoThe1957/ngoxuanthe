@@ -175,3 +175,11 @@ Nam Cao là một trong những nhà văn lớn nhất của văn học Việt N
 * Ngô Tất Tố
 * Kim Lân
 * Nguyễn Minh Châu
+
+---
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
+
