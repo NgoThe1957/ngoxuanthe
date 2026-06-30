@@ -18,4 +18,11 @@ Nguyễn Gia Thiều (1741–1798) là nhà thơ nổi tiếng thời Lê mạt.
 - Bi kịch tài hoa
 - Giá trị nhân đạo
 
-© Ngô Xuân Thể
+-----
+
+
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
