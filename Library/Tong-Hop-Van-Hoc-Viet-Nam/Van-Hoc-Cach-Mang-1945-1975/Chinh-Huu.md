@@ -40,4 +40,8 @@ Chính Hữu (1926–2007) là nhà thơ quân đội tiêu biểu của nền v
 
 ---
 
-© Ngô Xuân Thể
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
