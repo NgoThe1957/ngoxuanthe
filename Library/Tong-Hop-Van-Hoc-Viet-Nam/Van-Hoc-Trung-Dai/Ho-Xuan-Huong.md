@@ -1,4 +1,3 @@
-
 # TẬP 10
 
 # HỒ XUÂN HƯƠNG
@@ -88,3 +87,12 @@ Hồ Xuân Hương được mệnh danh là:
 # Kết luận
 
 Hồ Xuân Hương là hiện tượng độc đáo của văn học dân tộc và là tiếng nói mạnh mẽ của người phụ nữ Việt Nam.
+
+---
+
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
+
