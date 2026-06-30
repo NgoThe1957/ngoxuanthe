@@ -63,6 +63,10 @@ Văn học hiện đại Việt Nam đã mở ra một thời kỳ phát triển
 
 Văn học hiện đại là giai đoạn đánh dấu sự phát triển toàn diện của văn xuôi Việt Nam, đồng thời mở rộng phạm vi phản ánh hiện thực và khám phá chiều sâu tâm lý con người. Đây là nền tảng quan trọng cho sự phát triển của văn học Việt Nam đương đại.
 
+## Ảnh hưởng đối với văn học Việt Nam
+
+
+Các nhà văn tiêu biểu của văn học hiện đại như Nam Cao, Vũ Trọng Phụng, Nguyễn Tuân, Tô Hoài và Kim Lân đã để lại nhiều tác phẩm có giá trị lâu bền. Tư tưởng nhân văn, nghệ thuật tự sự và phong cách sáng tác của họ tiếp tục ảnh hưởng sâu rộng đến nhiều thế hệ nhà văn, nhà nghiên cứu và bạn đọc Việt Nam.
 ---
 ## Tài liệu tham khảo
 
