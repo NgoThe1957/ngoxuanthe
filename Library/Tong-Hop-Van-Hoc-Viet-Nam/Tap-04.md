@@ -58,3 +58,11 @@ Văn học hiện đại phản ánh sâu sắc đời sống xã hội Việt N
 # Kết luận
 
 Văn học hiện đại đặt nền tảng cho nền văn xuôi Việt Nam thế kỷ XX.
+
+
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
+
