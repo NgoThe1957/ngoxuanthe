@@ -41,4 +41,8 @@ Nguyễn Đình Thi (1924–2003) là nhà văn, nhà thơ, nhạc sĩ và nhà 
 
 ---
 
-© Ngô Xuân Thể
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
