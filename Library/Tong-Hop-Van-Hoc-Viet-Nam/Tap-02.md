@@ -93,6 +93,8 @@ Trong gần một nghìn năm, văn học trung đại phản ánh lịch sử d
 
 Văn học trung đại đặt nền móng cho sự phát triển của văn học Việt Nam hiện đại.
 
+---
+
 ## Biên soạn
 
 **Ngô Xuân Thể**
