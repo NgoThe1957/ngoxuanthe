@@ -1,6 +1,6 @@
 # TỔNG HỢP VĂN HỌC VIỆT NAM
 
-## mục lục tổng
+## Mục lục tổng
 ---
 
 ## Giới thiệu
