@@ -4,7 +4,7 @@
 
 ## Lời mở đầu
 
-Sau năm 1975, đất nước thống nhất, văn học Việt Nam bước vào một giai đoạn mới. Các nhà văn hướng ngòi bút vào những vấn đề đời sống, số phận con người và những đổi thay của xã hội.
+Sau năm 1975, đất nước thống nhất, văn học Việt Nam bước vào một giai đoạn phát triển mới. Từ cảm hứng sử thi và khuynh hướng phản ánh chiến tranh, văn học chuyển dần sang khám phá đời sống con người trong thời bình, những biến đổi của xã hội và các vấn đề nhân sinh. Đặc biệt từ công cuộc Đổi mới năm 1986, văn học ngày càng đa dạng về đề tài, tư duy nghệ thuật và phong cách sáng tác.
 
 ---
 
@@ -13,8 +13,9 @@ Sau năm 1975, đất nước thống nhất, văn học Việt Nam bước vào
 ## Bối cảnh lịch sử
 
 * Đất nước thống nhất.
-* Công cuộc đổi mới.
+* Công cuộc Đổi mới.
 * Hội nhập quốc tế.
+* Sự đổi mới tư duy văn học và nghệ thuật.
 
 ---
 
@@ -22,14 +23,15 @@ Sau năm 1975, đất nước thống nhất, văn học Việt Nam bước vào
 
 ## Nguyễn Minh Châu
 
-Tác phẩm:
+### Tác phẩm tiêu biểu
 
-* Bến Quê
-* Chiếc Thuyền Ngoài Xa
+* Bến quê
+* Chiếc thuyền ngoài xa
 
-Đóng góp:
+### Đóng góp
 
-Người mở đường tinh anh cho văn học đổi mới.
+* Người mở đường tinh anh của văn học thời kỳ đổi mới.
+* Góp phần đổi mới tư duy nghệ thuật trong văn xuôi Việt Nam.
 
 ---
 
@@ -37,9 +39,14 @@ Người mở đường tinh anh cho văn học đổi mới.
 
 ## Bảo Ninh
 
-Tác phẩm:
+### Tác phẩm tiêu biểu
 
-* Nỗi Buồn Chiến Tranh
+* Nỗi buồn chiến tranh
+
+### Đóng góp
+
+* Đổi mới cách nhìn về chiến tranh và số phận con người.
+* Tác phẩm có ảnh hưởng rộng rãi trong và ngoài nước.
 
 ---
 
@@ -47,10 +54,15 @@ Tác phẩm:
 
 ## Nguyễn Huy Thiệp
 
-Tác phẩm:
+### Tác phẩm tiêu biểu
 
-* Tướng Về Hưu
-* Không Có Vua
+* Tướng về hưu
+* Không có vua
+
+### Đóng góp
+
+* Một trong những nhà văn tiêu biểu của thời kỳ Đổi mới.
+* Mở rộng cách tiếp cận hiện thực và phản biện xã hội.
 
 ---
 
@@ -58,9 +70,14 @@ Tác phẩm:
 
 ## Lê Minh Khuê
 
-Tác phẩm:
+### Tác phẩm tiêu biểu
 
-* Những Ngôi Sao Xa Xôi
+* Những ngôi sao xa xôi
+
+### Đóng góp
+
+* Khắc họa chân thực vẻ đẹp của con người trong chiến tranh và thời hậu chiến.
+* Có nhiều đóng góp cho văn học thiếu nhi và truyện ngắn.
 
 ---
 
@@ -68,12 +85,47 @@ Tác phẩm:
 
 ## Nguyễn Ngọc Tư
 
-Tác phẩm:
+### Tác phẩm tiêu biểu
 
-* Cánh Đồng Bất Tận
+* Cánh đồng bất tận
+
+### Đóng góp
+
+* Đại diện tiêu biểu của văn học đương đại vùng Nam Bộ.
+* Thành công trong việc phản ánh số phận con người và đời sống nông thôn hiện đại.
 
 ---
 
 # Kết luận
 
-Văn học sau 1975 mở rộng biên độ phản ánh hiện thực và khám phá chiều sâu con người.
+Văn học Việt Nam sau năm 1975 đã mở rộng biên độ phản ánh hiện thực, hướng tới khám phá chiều sâu đời sống tinh thần của con người và những biến đổi của xã hội trong thời kỳ hòa bình và hội nhập. Đây là giai đoạn đánh dấu sự đổi mới mạnh mẽ về tư duy nghệ thuật và phong cách sáng tác.
+
+---
+
+## Vị trí trong văn học Việt Nam
+
+Văn học sau năm 1975 là giai đoạn tiếp nối và phát triển của văn học hiện đại Việt Nam. Với tinh thần đổi mới và đa dạng hóa phương thức biểu đạt, giai đoạn này góp phần làm phong phú diện mạo văn học dân tộc trong bối cảnh hội nhập quốc tế.
+
+---
+
+## Ảnh hưởng đối với văn học Việt Nam
+
+Các tác giả như Nguyễn Minh Châu, Bảo Ninh, Nguyễn Huy Thiệp, Lê Minh Khuê và Nguyễn Ngọc Tư đã góp phần đổi mới tư duy nghệ thuật, mở rộng phạm vi phản ánh hiện thực và nâng cao giá trị nhân văn của văn học Việt Nam đương đại. Nhiều tác phẩm của họ đã được dịch ra nhiều ngôn ngữ và được nghiên cứu rộng rãi trong nước cũng như quốc tế.
+
+---
+
+## Tài liệu tham khảo
+
+* Tổng tập Văn học Việt Nam.
+* Giáo trình Văn học Việt Nam hiện đại.
+* Từ điển Văn học.
+* Các công trình nghiên cứu về văn học Việt Nam sau năm 1975.
+* Tuyển tập văn học Việt Nam thời kỳ Đổi mới.
+
+---
+
+## Biên soạn
+
+**Ngô Xuân Thể**
+
+**Phiên bản:** Version 1.5 – Academic Review
