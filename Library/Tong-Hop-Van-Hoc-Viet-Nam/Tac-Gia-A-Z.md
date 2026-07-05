@@ -51,7 +51,7 @@ Tài liệu này là chỉ mục tra cứu các tác giả trong dự án **Viet
 | Văn học Cách mạng (1945–1975) | 6 |
 | Văn học Việt Nam sau 1975 | 7 |
 
-**Tổng số tác giả chuyên khảo:** **27**
+**Tổng số tác giả chuyên khảo:** **26**
 
 ---
 
