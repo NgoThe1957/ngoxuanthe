@@ -92,6 +92,7 @@ Vietnam Literature Digital Library (VLDL)
 **Phiên bản phát hành:** Version 2.0
 
 **Ngày kiểm định:** 06/07/2026
+
 **Lần cập nhật cuối:** 06/07/2026
 
 ---
