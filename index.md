@@ -1,13 +1,17 @@
-
 # 📚 THƯ VIỆN VĂN HỌC NGÔ XUÂN THỂ
-
-> Kho lưu trữ thơ, nghiên cứu văn học, sách điện tử và ghi chép học thuật.
+Vietnam Literature Digital Library  
+A Digital Library for Vietnamese.
 
 ---
 
 ## 👤 GIỚI THIỆU
 
-Tôi là **Ngô Xuân Thể**.
+## Vietnamese Literasuire Digital
+Dự án xây dựng thư viện số về Văn Học Việt Nam với hệ thống tra cứu theo giai đoạn, tác giả, tác phẩm và chuyên đề nghiên cứu.
+
+
+Đang phát triển.
+
 
 Trang web này được xây dựng nhằm lưu giữ những tác phẩm văn học yêu thích,
 các công trình nghiên cứu và thư viện sách điện tử phục vụ việc học tập,
