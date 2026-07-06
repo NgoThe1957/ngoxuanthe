@@ -8,7 +8,7 @@ A Digital Library for Vietnamese Literature
 ## 🧭 MENU
 
 - 🏠 Trang chủ
-- 📚 Thư viện số
+- 📚 [Thư viện số](Library/Tong-Hop-Van-Hoc-Viet-Nam/)
 - 📖 Thơ
 - 📷 Nhiếp ảnh
 - 📚 Sách
