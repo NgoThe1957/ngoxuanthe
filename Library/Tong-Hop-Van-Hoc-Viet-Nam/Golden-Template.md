@@ -1,127 +1,244 @@
-# TẬP XX
+# GOLDEN TEMPLATE
 
-# TÊN CHỦ ĐỀ / TÁC GIẢ
+# Vietnam Literature Digital Library (VLDL)
 
-## Lời mở đầu
+## Quy chuẩn biên tập chính thức
 
-Giới thiệu khái quát về vị trí của tác giả hoặc giai đoạn trong tiến trình văn học Việt Nam; nêu ý nghĩa và vai trò đối với sự phát triển của nền văn học dân tộc.
-
----
-
-# Chương I
-
-## Bối cảnh lịch sử
-
-Trình bày hoàn cảnh lịch sử, xã hội, văn hóa và tư tưởng của thời kỳ liên quan.
+**Phiên bản:** Version 2.0
 
 ---
 
-# Chương II
+# Lời nói đầu
 
-## Tiểu sử / Khái quát
+Golden Template là tài liệu quy định các nguyên tắc biên tập chính thức của dự án **Vietnam Literature Digital Library (VLDL)**.
 
-Đối với tác giả:
+Mục tiêu của tài liệu này là xây dựng một hệ thống thống nhất về cấu trúc, nội dung, trình bày và quản lý dữ liệu nhằm bảo đảm mọi tài liệu trong dự án có chất lượng học thuật, tính nhất quán và khả năng phát triển lâu dài.
 
-* Năm sinh – năm mất.
-* Quê quán.
-* Cuộc đời.
-* Sự nghiệp.
-
-Đối với giai đoạn:
-
-* Quá trình hình thành.
-* Đặc điểm chung.
-* Các khuynh hướng phát triển.
+Golden Template là cơ sở để biên soạn tất cả các tập chuyên khảo, tài liệu tra cứu, README và các tài liệu học thuật của dự án.
 
 ---
 
-# Chương III
+# Điều 1
 
-## Tác phẩm tiêu biểu
+## Mục đích
 
-Liệt kê những tác phẩm quan trọng nhất.
+Vietnam Literature Digital Library được xây dựng nhằm:
 
-### Giá trị nội dung
-
-### Giá trị nghệ thuật
-
----
-
-# Chương IV
-
-## Giá trị tư tưởng
-
-* Giá trị nhân văn.
-* Giá trị lịch sử.
-* Giá trị văn hóa.
-* Giá trị giáo dục.
+* Hệ thống hóa tiến trình văn học Việt Nam.
+* Xây dựng thư viện số phục vụ nghiên cứu, giảng dạy và tra cứu.
+* Góp phần bảo tồn và lan tỏa giá trị văn học Việt Nam.
+* Tạo nền tảng cho việc biên tập, xuất bản và cập nhật lâu dài.
 
 ---
 
-# Chương V
+# Điều 2
 
-## Phong cách nghệ thuật
+## Phạm vi áp dụng
 
-* Đặc điểm nổi bật.
-* Ngôn ngữ.
-* Hình tượng.
-* Bút pháp.
-* Đóng góp.
+Golden Template áp dụng cho toàn bộ tài liệu trong dự án, bao gồm:
 
----
-
-# Chương VI
-
-## Vị trí trong tiến trình văn học Việt Nam
-
-Phân tích vị trí của tác giả hoặc giai đoạn trong dòng chảy văn học dân tộc.
-
-Liên hệ với các giai đoạn trước và sau.
+* README.md
+* Master-Index.md
+* Timeline.md
+* Tac-Gia-A-Z.md
+* Tac-Pham-A-Z.md
+* Ban-Do-Van-Hoc.md
+* PROJECT-AUDIT-REPORT.md
+* Quality-control.md
+* Các tập chuyên khảo.
+* Các tài liệu nghiên cứu bổ sung.
 
 ---
 
-# Chương VII
+# Điều 3
 
-## Ảnh hưởng
+## Quy tắc đặt tên tập tin
 
-Đối với nền văn học.
+Tất cả tập tin sử dụng:
 
-Đối với giáo dục.
+* Chữ cái Latin không dấu.
+* Viết hoa chữ cái đầu của từng từ.
+* Các từ được nối bằng dấu gạch ngang (-).
+* Không sử dụng khoảng trắng.
+* Không sử dụng ký tự đặc biệt.
 
-Đối với nghiên cứu.
+Ví dụ:
 
-Đối với bạn đọc.
+Nguyen-Du.md
+
+Vu-Hoang-Chuong.md
+
+Timeline.md
+
+Master-Index.md
+
+Golden-Template.md
 
 ---
 
-# Kết luận
+# Điều 4
 
-Khẳng định giá trị lâu dài của tác giả hoặc giai đoạn đối với văn học Việt Nam.
+## Quy tắc đánh số
 
----
+Mỗi tập chỉ được sử dụng một số duy nhất.
 
-## Liên kết
+Ví dụ
 
-### Giai đoạn trước
+Tap-01
+
+Tap-02
 
 ...
 
-### Giai đoạn sau
+Tap-42
 
-...
+Không được tồn tại hai tập có cùng số.
 
-### Tác giả liên quan
-
-...
+Mọi thay đổi về số tập phải cập nhật trước trong Master-Index.md.
 
 ---
 
-## Tài liệu tham khảo
+# Điều 5
 
-* Tổng tập Văn học Việt Nam.
-* Giáo trình Văn học Việt Nam.
-* Từ điển Văn học.
-* Các công trình nghiên cứu chuyên khảo.
+## Cấu trúc chuẩn của một tập
+
+Mỗi tập chuyên khảo nên gồm các phần sau:
+
+* Lời mở đầu
+* Chương I – Bối cảnh
+* Chương II – Tiểu sử hoặc Khái quát
+* Chương III – Tác phẩm tiêu biểu
+* Chương IV – Giá trị tư tưởng
+* Chương V – Phong cách nghệ thuật
+* Chương VI – Vị trí trong tiến trình văn học
+* Chương VII – Ảnh hưởng
+* Kết luận
+* Liên kết
+* Tài liệu tham khảo
+* Biên soạn
+
+Tùy từng tác giả hoặc chủ đề, có thể bổ sung hoặc lược bớt một số chương nhưng vẫn phải giữ cấu trúc tổng thể.
+
+---
+
+# Điều 6
+
+## Quy chuẩn Markdown
+
+Các tài liệu sử dụng Markdown thống nhất:
+
+* Tiêu đề cấp 1 cho tên tập.
+* Tiêu đề cấp 2 cho chương.
+* Tiêu đề cấp 3 cho mục.
+* Danh sách sử dụng dấu (*).
+* Bảng dùng cú pháp Markdown chuẩn.
+* Mỗi chương cách nhau bằng đường phân cách (---).
+
+---
+
+# Điều 7
+
+## Quy tắc tổ chức thư mục
+
+Thư mục gốc chỉ chứa các tài liệu quản trị.
+
+Các tập chuyên khảo phải được đặt trong đúng thư mục theo giai đoạn văn học.
+
+Ví dụ:
+
+Van-Hoc-Dan-Gian
+
+Van-Hoc-Trung-Dai
+
+Tho-Moi
+
+Van-Hoc-Hien-Dai
+
+Van-Hoc-Cach-Mang-1945-1975
+
+Van-Hoc-Sau-1975
+
+Không đặt tập chuyên khảo ngoài thư mục quy định.
+
+---
+
+# Điều 8
+
+## Quy trình cập nhật
+
+Mọi thay đổi phải thực hiện theo đúng trình tự:
+
+1. Master-Index.md
+2. Timeline.md
+3. Tac-Gia-A-Z.md
+4. Tac-Pham-A-Z.md
+5. Ban-Do-Van-Hoc.md
+6. README
+7. Các tập chuyên khảo
+
+Không cập nhật ngược quy trình.
+
+---
+
+# Điều 9
+
+## Kiểm định chất lượng
+
+Trước mỗi phiên bản phát hành phải kiểm tra:
+
+☐ Không trùng số tập.
+
+☐ Không trùng tác giả.
+
+☐ Không sai tên tập tin.
+
+☐ Không sai thư mục.
+
+☐ Không sai liên kết.
+
+☐ Timeline khớp Master Index.
+
+☐ README đầy đủ.
+
+☐ Chỉ mục được cập nhật.
+
+☐ Chính tả và định dạng thống nhất.
+
+---
+
+# Điều 10
+
+## Quản lý phiên bản
+
+Mọi thay đổi của dự án phải được ghi trong:
+
+Version-History.md
+
+Các phiên bản phát hành cần có:
+
+* Mã phiên bản.
+* Ngày cập nhật.
+* Nội dung thay đổi.
+* Người biên soạn.
+
+---
+
+# Nguyên tắc cốt lõi
+
+Vietnam Literature Digital Library được xây dựng theo bốn nguyên tắc:
+
+* Chính xác.
+* Thống nhất.
+* Có khả năng mở rộng.
+* Có giá trị học thuật lâu dài.
+
+---
+
+# Tuyên bố
+
+Golden Template là quy chuẩn biên tập chính thức của **Vietnam Literature Digital Library (VLDL)**.
+
+Mọi tài liệu của dự án đều phải tuân theo quy chuẩn này nhằm bảo đảm tính thống nhất, khả năng tra cứu và chất lượng học thuật của toàn bộ hệ thống.
 
 ---
 
@@ -131,4 +248,4 @@ Khẳng định giá trị lâu dài của tác giả hoặc giai đoạn đối
 
 **Vietnam Literature Digital Library**
 
-**Phiên bản:** Version 2.0 – Golden Template
+**Version 2.0**
