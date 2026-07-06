@@ -1,12 +1,24 @@
-# 📚 THƯ VIỆN VĂN HỌC NGÔ XUÂN THỂ
-Vietnam Literature Digital Library  
-A Digital Library for Vietnamese.
+## THƯ VIỆN VĂN HỌC NGÔ XUÂN THỂ
 
----
+Vietnam Literature Digital Library
 
-## 👤 GIỚI THIỆU
+A Digital Library for Vietnamese Literature
 
-## Vietnamese Literacy Digital
+
+↓
+
+GIỚI THIỆU
+
+↓
+
+🌐 Vietnam Literature Digital Library
+
+↓
+
+THƠ YÊU THÍCH
+
+
+
 Dự án xây dựng thư viện số về Văn Học Việt Nam với hệ thống tra cứu theo giai đoạn, tác giả, tác phẩm và chuyên đề nghiên cứu.
 
 
