@@ -3,7 +3,19 @@
 Vietnam Literature Digital Library
 
 A Digital Library for Vietnamese Literature
+---
 
+## 🧭 MENU
+
+- 🏠 Trang chủ
+- 📚 Thư viện số
+- 📖 Thơ
+- 📷 Nhiếp ảnh
+- 📚 Sách
+- 💻 Công nghệ
+- 🔍 Nghiên cứu
+
+---
 ↓
 
 GIỚI THIỆU
