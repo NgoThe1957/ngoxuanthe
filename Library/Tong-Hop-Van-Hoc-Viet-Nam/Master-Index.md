@@ -4,6 +4,8 @@
 
 ### Vietnam Literature Digital Library (VLDL)
 
+**Document ID:** VLDL-MASTER-INDEX-2.0
+
 **Version:** 2.0 – System Standardization
 
 ---
@@ -90,5 +92,16 @@ Vietnam Literature Digital Library (VLDL)
 **Phiên bản phát hành:** Version 2.0
 
 **Ngày kiểm định:** 06/07/2026
+**Lần cập nhật cuối:** 06/07/2026
+
+---
+
 
 **Trạng thái tài liệu:** Official Release
+
+**Trạng thái kiểm định:** VERIFIED
+
+---
+
+*Tài liệu này là nguồn quản trị chính thức (Single Source of Truth) của dự án Vietnam Literature Digital Library (VLDL). Mọi thay đổi về cấu trúc hệ thống phải được cập nhật tại Master-Index.md trước khi đồng bộ sang các tài liệu liên quan.*
+
