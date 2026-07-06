@@ -6,7 +6,7 @@ A Digital Library for Vietnamese.
 
 ## 👤 GIỚI THIỆU
 
-## Vietnamese Literasuire Digital
+## Vietnamese Literacy Digital
 Dự án xây dựng thư viện số về Văn Học Việt Nam với hệ thống tra cứu theo giai đoạn, tác giả, tác phẩm và chuyên đề nghiên cứu.
 
 
