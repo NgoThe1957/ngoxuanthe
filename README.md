@@ -1,30 +1,53 @@
-# Thư viện số của Ngô Xuân Thể
+# 📚 Vietnam Literature Digital Library (VLDL)
 
-## Các bộ sưu tập
+## Thư viện số của Ngô Xuân Thể
 
-- Văn học
-- Thơ
-- Nhiếp ảnh
-- Nghiên cứu
-- Công nghệ
-- Sách
+Thư viện số chuyên lưu trữ, nghiên cứu và tra cứu Văn học Việt Nam.
+
+Dự án được xây dựng nhằm hệ thống hóa các giai đoạn văn học, tác giả, tác phẩm và các chuyên đề nghiên cứu trong một cấu trúc thống nhất.
 
 ---
 
-## Dự án nổi bật
+# 🧭 MENU
 
-### Tổng hợp Văn học Việt Nam
+## 📖 Các bộ sưu tập
 
-Đường dẫn:
+- 📚 Văn học
+- 📖 Thơ
+- 📷 Nhiếp ảnh
+- 📘 Sách
+- 🔬 Nghiên cứu
+- 💻 Công nghệ
+
+---
+
+# ⭐ Dự án nổi bật
+
+## Vietnam Literature Digital Library
+
+**Tổng hợp Văn học Việt Nam**
+
+📂 Đường dẫn
 
 Library/Tong-Hop-Van-Hoc-Viet-Nam
 
-Bao gồm:
+### Bao gồm
 
-- Văn học dân gian
-- Văn học trung đại
-- Thơ Mới
-- Văn học hiện đại
-- Văn học cách mạng
-- Văn học sau 1975
-- Nghiên cứu phê bình
+- Văn học Dân gian
+- Văn học Trung đại
+- Thơ Mới (1932–1945)
+- Văn học Hiện đại (1930–1945)
+- Văn học Cách mạng (1945–1975)
+- Văn học Việt Nam sau 1975
+- Nghiên cứu – Phê bình
+
+---
+
+## Phiên bản hiện tại
+
+**Version 2.0**
+
+Hệ thống đang tiếp tục được mở rộng.
+
+© Ngô Xuân Thể
+Vietnam Literature Digital Library (VLDL)
