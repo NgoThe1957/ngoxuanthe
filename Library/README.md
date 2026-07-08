@@ -1,4 +1,4 @@
-# 📚 VIETNAM LITERATURE DIGITAL LIBRARY (VLDL)
+# 📚 VIETNAM LITERATURE DIGITAL Library (VLDL)
 
 # Thư viện số của Ngô Xuân Thể
 
@@ -6,13 +6,15 @@
 
 Vietnam Literature Digital Library (VLDL) là dự án thư viện số được xây dựng nhằm hệ thống hóa các nguồn tư liệu về Lịch sử và Văn học Việt Nam, phục vụ học tập, nghiên cứu, tra cứu và lưu trữ lâu dài.
 
+Dự án hướng tới việc xây dựng một hệ thống tri thức có cấu trúc thống nhất, kết nối giữa các lĩnh vực lịch sử, văn học và các tài liệu nghiên cứu liên quan.
+
 ---
 
 # 🧭 ĐIỀU HƯỚNG
 
 ## 📘 Tài liệu Tra cứu
 
-Tài liệu định hướng trung tâm của hệ thống.
+Tài liệu định hướng trung tâm của toàn bộ hệ thống.
 
 👉 **[Tài liệu Tra cứu Lịch sử và Văn học Việt Nam](Tai-Lieu-Tra-Cuu.md)**
 
@@ -36,12 +38,12 @@ Bộ chuyên khảo hệ thống hóa nền Văn học Việt Nam theo tiến tr
 
 # 🌟 Dự án trọng tâm
 
-Vietnam Literature Digital Library hiện được tổ chức thành hai hệ thống tư liệu chính:
+Vietnam Literature Digital Library được tổ chức thành hai hệ thống tư liệu chính:
 
 - 🏛️ **Lịch sử Việt Nam**
 - 📚 **Tổng hợp Văn học Việt Nam**
 
-Hai hệ thống được kết nối thông qua **Tài liệu Tra cứu Lịch sử và Văn học Việt Nam**, tạo thành một nền tảng tra cứu thống nhất.
+Hai hệ thống được kết nối thông qua **Tài liệu Tra cứu Lịch sử và Văn học Việt Nam**, tạo thành một nền tảng tra cứu thống nhất cho toàn bộ thư viện số.
 
 ---
 
@@ -63,6 +65,8 @@ Hai hệ thống được kết nối thông qua **Tài liệu Tra cứu Lịch 
 
 Vietnam Literature Digital Library (VLDL)
 
-**Phiên bản:** Version 3.0
+**Phiên bản phát hành:** Version 3.0
 
-**Trạng thái:** Portal Edition
+**Trạng thái tài liệu:** Portal Edition
+
+**Ngày cập nhật:** Tháng 7 năm 2026
