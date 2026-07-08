@@ -1,22 +1,3 @@
-# 📚 VIETNAM LITERATURE DIGITAL LIBRARY
-
-## Thư viện Văn học Việt Nam
-
-> Trung tâm tra cứu các giai đoạn Văn học Việt Nam.
-
----
-
-## 📖 Các giai đoạn văn học
-
-- 🏛️ [Văn học Dân gian](Tong-Hop-Van-Hoc-Viet-Nam/Van-Hoc-Dan-Gian/)
-- 🏯 [Văn học Trung đại](Tong-Hop-Van-Hoc-Viet-Nam/Van-Hoc-Trung-Dai/)
-- ✒️ [Thơ Mới (1932–1945)](Tong-Hop-Van-Hoc-Viet-Nam/Tho-Moi/)
-- 📚 [Văn học Hiện đại](Tong-Hop-Van-Hoc-Viet-Nam/Van-Hoc-Hien-Dai/)
-- ⭐ [Văn học Cách mạng](Tong-Hop-Van-Hoc-Viet-Nam/Van-Hoc-Cach-Mang-1945-1975/)
-- 🌱 [Văn học sau 1975](Tong-Hop-Van-Hoc-Viet-Nam/Van-Hoc-Sau-1975/)
-- 🔍 [Nghiên cứu Phê bình](Tong-Hop-Van-Hoc-Viet-Nam/Nghien-Cuu-Phe-Binh/)
-
----
 
 ## ⭐ Dự án trọng tâm
 
@@ -33,10 +14,42 @@
 
 ## 📊 Tiến độ dự án
 
-| Hạng mục | Trạng thái |
-|----------|-----------|
-| 06 giai đoạn | ✅ |
-| README | ✅ |
-| Master Index | ✅ |
-| GitHub Pages | ✅ |
-| Điều hướng | 🚧 Đang hoàn thiện |
+# 📚 VIETNAM LITERATURE DIGITAL LIBRARY (VLDL)
+
+## Thư viện số của Ngô Xuân Thể
+
+Kho lưu trữ, nghiên cứu và tra cứu Lịch sử và Văn học Việt Nam.
+
+---
+
+# 🧭 ĐIỀU HƯỚNG
+
+## 📘 Tài liệu Tra cứu
+
+- Tài liệu Tra cứu Lịch sử và Văn học Việt Nam
+
+---
+
+## 🏛️ Lịch sử Việt Nam
+
+- Bộ sách Lịch sử Việt Nam (15 tập)
+
+---
+
+## 📚 Tổng hợp Văn học Việt Nam
+
+- Văn học Dân gian
+- Văn học Trung đại
+- Thơ Mới
+- Văn học Hiện đại
+- Văn học Cách mạng
+- Văn học sau 1975
+- Nghiên cứu Phê bình| Hạng mục | Trạng thái |
+
+  
+|----------|-----------|  
+| 06 giai đoạn | ✅ 
+| README | ✅     
+| Master Index | ✅ |  
+| GitHub Pages | ✅ |  
+| Điều hướng | 🚧 Đang hoàn thiện |  
