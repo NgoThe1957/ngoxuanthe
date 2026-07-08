@@ -1,4 +1,3 @@
-
 ## ⭐ Dự án trọng tâm
 
 **Tổng hợp Văn học Việt Nam**
@@ -26,7 +25,7 @@ Kho lưu trữ, nghiên cứu và tra cứu Lịch sử và Văn học Việt Na
 
 ## 📘 Tài liệu Tra cứu
 
-- Tài liệu Tra cứu Lịch sử và Văn học Việt Nam
+👉 [Tài liệu Tra cứu Lịch sử và Văn học Việt Nam](Tai-Lieu-Tra-Cuu.md)
 
 ---
 
