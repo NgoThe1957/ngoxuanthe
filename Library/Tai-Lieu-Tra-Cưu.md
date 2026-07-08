@@ -1,126 +1,72 @@
-# 📘 TÀI LIỆU TRA CỨU
+# 📚 VIETNAM LITERATURE DIGITAL Library (VLDL)
 
-# LỊCH SỬ VÀ VĂN HỌC VIỆT NAM
+# Thư viện số của Ngô Xuân Thể
 
-## Vietnam Literature Digital Library (VLDL)
+> **Kho lưu trữ, nghiên cứu và tra cứu Lịch sử và Văn học Việt Nam.**
 
-> *Tài liệu định hướng và tra cứu trung tâm của hệ thống Vietnam Literature Digital Library.*
+Vietnam Literature Digital Library (VLDL) là dự án thư viện số được xây dựng nhằm hệ thống hóa các nguồn tư liệu về Lịch sử và Văn học Việt Nam, phục vụ học tập, nghiên cứu, tra cứu và lưu trữ lâu dài.
 
----
-
-# LỜI GIỚI THIỆU
-
-**Tài liệu Tra cứu Lịch sử và Văn học Việt Nam** là tài liệu định hướng trung tâm của **Vietnam Literature Digital Library (VLDL)**.
-
-Tài liệu được biên soạn nhằm giới thiệu cấu trúc của thư viện số, phương pháp tổ chức hệ thống tư liệu và hướng dẫn người đọc tiếp cận các bộ sưu tập chính của dự án.
-
-Đây là điểm khởi đầu dành cho mọi độc giả trước khi đi vào các bộ sách chuyên khảo, các công trình nghiên cứu và các tài liệu tham khảo trong hệ thống.
-
-Mục tiêu của tài liệu là xây dựng một phương pháp tra cứu thống nhất, giúp việc học tập, nghiên cứu và lưu giữ tri thức về Lịch sử và Văn học Việt Nam được thực hiện một cách khoa học, thuận tiện và lâu dài.
+Dự án hướng tới việc xây dựng một hệ thống tri thức có cấu trúc thống nhất, kết nối giữa các lĩnh vực lịch sử, văn học và các tài liệu nghiên cứu liên quan.
 
 ---
 
-# 🧭 HỆ THỐNG TRA CỨU
+# 🧭 ĐIỀU HƯỚNG
 
-## 🏛️ 1. Lịch sử Việt Nam
+## 📘 Tài liệu Tra cứu
 
-Bộ sách chuyên khảo gồm **15 tập**, trình bày tiến trình lịch sử Việt Nam từ thời kỳ dựng nước đến thời kỳ hiện đại.
+Tài liệu định hướng trung tâm của toàn bộ hệ thống.
 
-Nội dung được tổ chức theo trình tự lịch sử, kết hợp giữa sự kiện, nhân vật và bối cảnh phát triển của dân tộc Việt Nam.
-
-**Truy cập bộ sách**
-
-👉 **[Lịch sử Việt Nam](../History/)**
+👉 **[Tài liệu Tra cứu Lịch sử và Văn học Việt Nam](Tai-Lieu-Tra-Cuu.md)**
 
 ---
 
-## 📚 2. Tổng hợp Văn học Việt Nam
+## 🏛️ Lịch sử Việt Nam
 
-Bộ sách chuyên khảo hệ thống hóa nền Văn học Việt Nam từ Văn học Dân gian đến Văn học đương đại.
+Bộ chuyên khảo gồm **15 tập**, trình bày tiến trình lịch sử Việt Nam từ thời kỳ dựng nước đến thời kỳ hiện đại.
 
-Hệ thống được tổ chức theo các giai đoạn phát triển của lịch sử văn học, kết hợp với các chuyên đề nghiên cứu, tác giả tiêu biểu và tác phẩm có giá trị.
-
-**Truy cập bộ sách**
-
-👉 **[Tổng hợp Văn học Việt Nam](../Library/Tong-Hop-Van-Hoc-Viet-Nam/)**
+🚧 Đang xây dựng.
 
 ---
 
-# 🎯 MỤC TIÊU
+## 📚 Tổng hợp Văn học Việt Nam
 
-Tài liệu được biên soạn nhằm:
+Bộ chuyên khảo hệ thống hóa nền Văn học Việt Nam theo tiến trình lịch sử và các chuyên đề nghiên cứu.
 
-- Giới thiệu tổng quan Vietnam Literature Digital Library.
-- Hướng dẫn phương pháp tra cứu hệ thống.
-- Kết nối giữa hai bộ sách lớn: **Lịch sử Việt Nam** và **Tổng hợp Văn học Việt Nam**.
-- Chuẩn hóa phương pháp tổ chức và khai thác dữ liệu.
-- Hỗ trợ học tập, nghiên cứu và lưu trữ lâu dài.
+👉 **[Truy cập Tổng hợp Văn học Việt Nam](Tong-Hop-Van-Hoc-Viet-Nam/)**
 
 ---
 
-# 🏛️ KIẾN TRÚC HỆ THỐNG
+# 🌟 Dự án trọng tâm
 
-```text
-Vietnam Literature Digital Library
-│
-├── 📘 Tài liệu Tra cứu Lịch sử và Văn học Việt Nam
-│
-├── 🏛️ Lịch sử Việt Nam
-│      ├── Tập 01
-│      ├── Tập 02
-│      ├── ...
-│      └── Tập 15
-│
-├── 📚 Tổng hợp Văn học Việt Nam
-│      ├── Văn học Dân gian
-│      ├── Văn học Trung đại
-│      ├── Thơ Mới
-│      ├── Văn học Hiện đại
-│      ├── Văn học Cách mạng
-│      ├── Văn học sau 1975
-│      └── Nghiên cứu Phê bình
-│
-├── 📖 Thơ
-├── 📷 Nhiếp ảnh
-├── 📘 Sách
-├── 🔬 Nghiên cứu
-└── 💻 Công nghệ
-```
+Vietnam Literature Digital Library được tổ chức thành hai hệ thống tư liệu chính:
+
+- 🏛️ **Lịch sử Việt Nam**
+- 📚 **Tổng hợp Văn học Việt Nam**
+
+Hai hệ thống được kết nối thông qua **Tài liệu Tra cứu Lịch sử và Văn học Việt Nam**, tạo thành một nền tảng tra cứu thống nhất cho toàn bộ thư viện số.
 
 ---
 
-# 📚 NGUYÊN TẮC TRA CỨU
+# 📊 Trạng thái dự án
 
-Để khai thác hiệu quả hệ thống, người đọc nên thực hiện theo trình tự:
-
-1. Đọc **Tài liệu Tra cứu Lịch sử và Văn học Việt Nam** để nắm cấu trúc chung.
-2. Lựa chọn bộ sách phù hợp với nhu cầu nghiên cứu.
-3. Sử dụng các công cụ hỗ trợ như:
-   - Master Index
-   - Timeline
-   - Chỉ mục Tác giả A–Z
-   - Chỉ mục Tác phẩm A–Z
-   - Bản đồ Văn học
-4. Truy cập các tập chuyên khảo và chuyên đề liên quan.
+| Hạng mục | Trạng thái |
+|-----------|:---------:|
+| 📘 Tài liệu Tra cứu | 🚧 Đang biên tập |
+| 🏛️ Lịch sử Việt Nam | 🚧 Đang xây dựng |
+| 📚 Tổng hợp Văn học Việt Nam | ✅ Hoàn thành giai đoạn 1 |
+| 📑 Master Index | ✅ Version 2.0 |
+| 🌐 GitHub Pages | ✅ Hoạt động |
 
 ---
 
-# 🌟 ĐỊNH HƯỚNG PHÁT TRIỂN
-
-Vietnam Literature Digital Library hướng tới việc xây dựng một hệ thống thư viện số có cấu trúc mở, liên tục được cập nhật và mở rộng.
-
-Trong tương lai, hệ thống sẽ bổ sung thêm các bộ sưu tập chuyên ngành, tăng cường khả năng tra cứu và liên kết giữa các lĩnh vực tri thức, góp phần hỗ trợ hiệu quả cho hoạt động học tập, nghiên cứu và phổ biến giá trị của Lịch sử và Văn học Việt Nam.
-
----
-
-# BIÊN SOẠN
+# 👤 Biên soạn
 
 **Ngô Xuân Thể**
 
 Vietnam Literature Digital Library (VLDL)
 
-**Phiên bản:** Version 3.0
+**Phiên bản phát hành:** Version 3.0
 
-**Trạng thái:** Academic Foundation Edition
+**Trạng thái tài liệu:** Portal Edition
 
-**© 2026**
+**Ngày cập nhật:** Tháng 7 năm 2026
