@@ -4,13 +4,36 @@
 
 ---
 
-## Giới thiệu
+## Lời mở đầu
 
-**Tài liệu Tra cứu Lịch sử và Văn học Việt Nam** là tài liệu định hướng trung tâm của dự án **Vietnam Literature Digital Library (VLDL)**.
+"Tài liệu Tra cứu Lịch sử và Văn học Việt Nam" là tài liệu nền tảng của Vietnam Literature Digital Library (VLDL), được biên soạn nhằm giới thiệu cấu trúc, nguyên tắc tổ chức và phương pháp khai thác toàn bộ hệ thống tư liệu của dự án.
+Vietnam Literature Digital Library (VLDL)
 
-Mục tiêu của tài liệu là xây dựng một hệ thống tra cứu thống nhất, kết nối giữa **Lịch sử Việt Nam** và **Văn học Việt Nam**, giúp người đọc tiếp cận các giai đoạn lịch sử, các tác giả, tác phẩm và chuyên đề nghiên cứu theo một cấu trúc logic và nhất quán.
+│
 
-Đây là điểm khởi đầu dành cho mọi người đọc trước khi đi vào từng bộ chuyên khảo của thư viện số.
+├── 📘 Tài liệu Tra cứu Lịch sử và Văn học Việt Nam
+
+│
+
+├── 🏛️ Lịch sử Việt Nam
+│      └── 15 tập
+
+│
+
+├── 📚 Tổng hợp Văn học Việt Nam
+│      └── 06 giai đoạn
+
+│
+
+├── 👤 Tác giả A–Z
+
+├── 📖 Tác phẩm A–Z
+
+├── 🗺️ Timeline
+
+├── 📑 Master Index
+
+└── 🔬 Các chuyên đề nghiên cứu
 
 ---
 
@@ -112,11 +135,10 @@ Người đọc có thể:
 
 ---
 
-# 📚 Vietnam Literature Digital Library
+Kết luận
 
-Tài liệu này là trung tâm điều hướng học thuật của dự án **Vietnam Literature Digital Library (VLDL)**.
+Tài liệu Tra cứu Lịch sử và Văn học Việt Nam là nền tảng định hướng của Vietnam Literature Digital Library. Thông qua tài liệu này, người đọc có thể tiếp cận thống nhất các hệ thống tư liệu về Lịch sử và Văn học Việt Nam, đồng thời khai thác hiệu quả các bộ chuyên khảo, chỉ mục và công cụ tra cứu của dự án.
 
-Mọi bộ sưu tập, chuyên khảo và tài liệu nghiên cứu trong hệ thống đều được kết nối thông qua tài liệu này nhằm hình thành một nền tảng tra cứu thống nhất về **Lịch sử và Văn học Việt Nam**.
 
 ---
 
