@@ -1,41 +1,45 @@
-# 👤 TÁC GIẢ A–Z
+# 📖 TÁC PHẨM A–Z
 
 ## Vietnam Literature Digital Library (VLDL)
 
-> Hệ thống tra cứu các tác giả trong Vietnam Literature Digital Library theo thứ tự bảng chữ cái.
+> Hệ thống tra cứu các tác phẩm trong Vietnam Literature Digital Library theo thứ tự bảng chữ cái.
 
 ---
 
 # Giới thiệu
 
-**Tác giả A–Z** là hệ thống chỉ mục tra cứu giúp người đọc tìm kiếm nhanh các tác giả có mặt trong Vietnam Literature Digital Library (VLDL).
+**Tác phẩm A–Z** là hệ thống chỉ mục tra cứu giúp người đọc tìm kiếm nhanh các tác phẩm văn học có trong Vietnam Literature Digital Library (VLDL).
 
-Các tác giả được sắp xếp theo thứ tự bảng chữ cái, đồng thời được liên kết với giai đoạn văn học, các tác phẩm tiêu biểu và các chuyên đề nghiên cứu liên quan.
+Các tác phẩm được sắp xếp theo thứ tự bảng chữ cái, đồng thời được liên kết với tác giả, giai đoạn văn học và các chuyên đề nghiên cứu liên quan.
 
-Mục tiêu của hệ thống là hỗ trợ việc tra cứu, học tập và nghiên cứu một cách thuận tiện, khoa học và thống nhất.
+Mục tiêu của hệ thống là xây dựng một phương thức tra cứu khoa học, thống nhất và thuận tiện cho hoạt động học tập, nghiên cứu và tham khảo.
 
 ---
 
 # 📚 Nội dung
 
-Hệ thống dự kiến bao gồm:
+Hệ thống dự kiến bao gồm các tác phẩm thuộc:
 
-- Tác giả Văn học Dân gian
-- Tác giả Văn học Trung đại
-- Tác giả Thơ Mới
-- Tác giả Văn học Hiện đại
-- Tác giả Văn học Cách mạng
-- Tác giả Văn học Việt Nam sau 1975
+- Văn học Dân gian
+- Văn học Trung đại
+- Thơ Mới
+- Văn học Hiện đại
+- Văn học Cách mạng
+- Văn học Việt Nam sau 1975
 
-Mỗi tác giả sẽ có một trang riêng, bao gồm:
+Mỗi tác phẩm sẽ có một trang riêng, bao gồm:
 
-- Tiểu sử
+- Tên tác phẩm
+- Tác giả
+- Năm sáng tác (nếu xác định được)
 - Giai đoạn văn học
-- Tác phẩm tiêu biểu
+- Thể loại
+- Hoàn cảnh ra đời
+- Tóm tắt nội dung
 - Giá trị nội dung
 - Giá trị nghệ thuật
-- Chuyên đề nghiên cứu liên quan
-- Liên kết đến các tài liệu trong VLDL
+- Tiếp nhận và nghiên cứu
+- Liên kết đến tác giả và các chuyên đề liên quan trong VLDL
 
 ---
 
@@ -93,10 +97,10 @@ Y
 
 Hệ thống được xây dựng nhằm:
 
-- Chuẩn hóa việc tra cứu tác giả.
-- Kết nối tác giả với tác phẩm và giai đoạn văn học.
+- Chuẩn hóa việc tra cứu tác phẩm.
+- Kết nối tác phẩm với tác giả và giai đoạn văn học.
 - Liên kết các chuyên đề nghiên cứu.
-- Hỗ trợ học tập và nghiên cứu.
+- Hỗ trợ học tập, nghiên cứu và tham khảo.
 
 ---
 
@@ -117,7 +121,7 @@ Hệ thống được xây dựng nhằm:
 | Cấu trúc hệ thống | ✅ |
 | README | ✅ |
 | Chỉ mục A–Z | 🚧 Đang xây dựng |
-| Hồ sơ tác giả | 🚧 Đang biên tập |
+| Hồ sơ tác phẩm | 🚧 Đang biên tập |
 | Liên kết nội bộ | 🚧 Đang hoàn thiện |
 
 ---
