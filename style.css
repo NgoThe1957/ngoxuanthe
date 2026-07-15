@@ -1,0 +1,111 @@
+/* =====================================================
+   Vietnam History & Literature Digital Library
+   VHLDL Website Theme 1.0
+   ===================================================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    font-family:
+    "Times New Roman",
+    Georgia,
+    serif;
+
+    background:#f8f5ef;
+
+    color:#2f2f2f;
+
+    line-height:1.8;
+}
+
+/* ================= HEADER ================= */
+
+header{
+
+    position:sticky;
+
+    top:0;
+
+    width:100%;
+
+    background:#ffffff;
+
+    border-bottom:1px solid #ddd;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:18px 60px;
+
+    z-index:1000;
+
+}
+
+.logo h1{
+
+    color:#7b4b24;
+
+    font-size:34px;
+
+    letter-spacing:2px;
+}
+
+.logo p{
+
+    font-size:14px;
+
+    color:#666;
+}
+
+.logo a{
+
+    text-decoration:none;
+}
+
+/* ================= MENU ================= */
+
+nav ul{
+
+    list-style:none;
+
+    display:flex;
+
+    gap:30px;
+}
+
+nav a{
+
+    text-decoration:none;
+
+    color:#333;
+
+    font-size:18px;
+
+    transition:.3s;
+}
+
+nav a:hover{
+
+    color:#9d6b3d;
+}
+
+/* ================= MAIN ================= */
+
+main{
+
+    width:100%;
+
+    max-width:1400px;
+
+    margin:auto;
+
+    padding:40px;
+}
