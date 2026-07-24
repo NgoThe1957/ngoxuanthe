@@ -60,3 +60,5 @@ Trong các giai đoạn tiếp theo, cơ sở dữ liệu sẽ tiếp tục đư
 Thư mục `data/` là nền tảng dữ liệu của **Vietnam History & Literature Digital Library (VHLDL)**, phục vụ việc xây dựng một thư viện số có khả năng tra cứu, liên kết và nghiên cứu Lịch sử và Văn học Việt Nam.
 
 Cấu trúc và dữ liệu sẽ được bổ sung, hoàn thiện trong suốt quá trình phát triển dự án.
+
+Mục tiêu của thư mục này là xây dựng một lớp dữ liệu thống nhất, làm nền tảng cho việc nghiên cứu, tra cứu và kết nối tri thức trong VHLDL.
