@@ -124,7 +124,8 @@ a{text-decoration:none;color:inherit}
   border-radius:12px;background:#fff;box-shadow:0 4px 18px rgba(20,40,30,.08);
   display:flex;flex-direction:column;align-items:center;text-align:center;
 }
-.feature-icon{font-size:50px;line-height:1;margin:3px 0 13px}
+.feature-icon{width:72px;height:72px;display:grid;place-items:center;line-height:1;margin:3px 0 13px}
+.feature-icon svg{width:68px;height:68px;display:block}
 .feature-card h2{font-size:17px;line-height:1.15;margin:0 0 12px}
 .feature-card p{font-size:14px;line-height:1.5;margin:0 auto 16px;max-width:180px;flex:1}
 .feature-card a{
